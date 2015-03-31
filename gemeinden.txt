@@ -1,0 +1,2250 @@
+1     Burgenland
+101   .. Eisenstadt(Stadt)
+10101 .... Eisenstadt                             ## SS; 7000; 
+102   .. Rust(Stadt)
+10201 .... Rust                                   ## SS; 7071; 
+103   .. Eisenstadt-Umgebung
+10301 .... Breitenbrunn am Neusiedler See         ## M ; 7091; 
+10302 .... Donnerskirchen                         ## M ; 7082; 
+10303 .... Großhöflein                            ## M ; 7051; 
+10304 .... Hornstein                              ## M ; 7053; 2491
+10305 .... Klingenbach                            ##   ; 7013; 
+10306 .... Leithaprodersdorf                      ##   ; 2443; 
+10307 .... Mörbisch am See                        ##   ; 7072; 
+10308 .... Müllendorf                             ##   ; 7052; 
+10309 .... Neufeld an der Leitha                  ## ST; 2491; 
+10310 .... Oggau am Neusiedler See                ## M ; 7063; 
+10311 .... Oslip                                  ##   ; 7064; 
+10312 .... Purbach am Neusiedler See              ## ST; 7083; 
+10313 .... Sankt Margarethen im Burgenland        ## M ; 7062; 
+10314 .... Schützen am Gebirge                    ##   ; 7081; 
+10315 .... Siegendorf                             ## M ; 7011; 
+10316 .... Steinbrunn                             ## M ; 7035; 2491
+10317 .... Trausdorf an der Wulka                 ##   ; 7061; 
+10318 .... Wimpassing an der Leitha               ##   ; 2485; 
+10319 .... Wulkaprodersdorf                       ## M ; 7041; 
+10320 .... Loretto                                ## M ; 2443; 
+10321 .... Stotzing                               ##   ; 2443; 
+10322 .... Zillingtal                             ##   ; 7034; 7033 7035
+10323 .... Zagersdorf                             ##   ; 7011; 
+104   .. Güssing
+10401 .... Bocksdorf                              ##   ; 7551; 
+10402 .... Burgauberg-Neudauberg                  ##   ; 8291; 8292
+10403 .... Eberau                                 ## M ; 7521; 7522
+10404 .... Gerersdorf-Sulz                        ##   ; 7542; 7540
+10405 .... Güssing                                ## ST; 7540; 7542
+10406 .... Güttenbach                             ## M ; 7536; 
+10407 .... Heiligenbrunn                          ##   ; 7522; 
+10408 .... Kukmirn                                ## M ; 7543; 
+10409 .... Neuberg im Burgenland                  ##   ; 7537; 
+10410 .... Neustift bei Güssing                   ##   ; 7540; 
+10411 .... Olbendorf                              ##   ; 7534; 
+10412 .... Ollersdorf im Burgenland               ## M ; 7533; 8292
+10413 .... Sankt Michael im Burgenland            ## M ; 7535; 
+10414 .... Stegersbach                            ## M ; 7551; 
+10415 .... Stinatz                                ## M ; 7552; 
+10416 .... Strem                                  ## M ; 7522; 
+10417 .... Tobaj                                  ##   ; 7544; 
+10418 .... Hackerberg                             ##   ; 8292; 
+10419 .... Wörterberg                             ##   ; 8293; 
+10420 .... Großmürbisch                           ##   ; 7540; 
+10421 .... Inzenhof                               ##   ; 7540; 
+10422 .... Kleinmürbisch                          ##   ; 7540; 
+10423 .... Tschanigraben                          ##   ; 7540; 
+10424 .... Heugraben                              ##   ; 7551; 
+10425 .... Rohr im Burgenland                     ##   ; 7551; 
+10426 .... Bildein                                ##   ; 7521; 
+10427 .... Rauchwart                              ##   ; 7535; 
+10428 .... Moschendorf                            ##   ; 7540; 
+105   .. Jennersdorf
+10501 .... Deutsch Kaltenbrunn                    ## M ; 7572; 
+10502 .... Eltendorf                              ##   ; 7562; 
+10503 .... Heiligenkreuz im Lafnitztal            ## M ; 7561; 
+10504 .... Jennersdorf                            ## ST; 8380; 8282
+10505 .... Minihof-Liebau                         ## M ; 8384; 
+10506 .... Mogersdorf                             ## M ; 8382; 
+10507 .... Neuhaus am Klausenbach                 ## M ; 8385; 8384
+10508 .... Rudersdorf                             ## M ; 7571; 7564
+10509 .... Sankt Martin an der Raab               ## M ; 8383; 8350 8380 8384 8385
+10510 .... Weichselbaum                           ##   ; 8382; 
+10511 .... Königsdorf                             ##   ; 7563; 
+10512 .... Mühlgraben                             ##   ; 8385; 
+106   .. Mattersburg
+10601 .... Draßburg                               ##   ; 7021; 
+10602 .... Forchtenstein                          ##   ; 7212; 
+10603 .... Hirm                                   ##   ; 7024; 
+10604 .... Loipersbach im Burgenland              ##   ; 7020; 
+10605 .... Marz                                   ##   ; 7221; 
+10606 .... Mattersburg                            ## ST; 7210; 
+10607 .... Neudörfl                               ## M ; 7201; 
+10608 .... Pöttelsdorf                            ##   ; 7023; 
+10609 .... Pöttsching                             ## M ; 7033; 7202
+10610 .... Rohrbach bei Mattersburg               ## M ; 7222; 
+10611 .... Bad Sauerbrunn                         ##   ; 7202; 
+10612 .... Schattendorf                           ## M ; 7022; 
+10613 .... Sieggraben                             ##   ; 7223; 
+10614 .... Sigleß                                 ##   ; 7032; 
+10615 .... Wiesen                                 ## M ; 7203; 7202
+10616 .... Antau                                  ##   ; 7042; 
+10617 .... Baumgarten                             ##   ; 7021; 
+10618 .... Zemendorf-Stöttera                     ##   ; 7023; 
+10619 .... Krensdorf                              ##   ; 7031; 
+107   .. Neusiedl am See
+10701 .... Andau                                  ## M ; 7163; 
+10702 .... Apetlon                                ## M ; 7143; 7132 7161
+10703 .... Bruckneudorf                           ##   ; 2460; 2462
+10704 .... Deutsch Jahrndorf                      ##   ; 2423; 
+10705 .... Frauenkirchen                          ## ST; 7132; 
+10706 .... Gattendorf                             ##   ; 2474; 
+10707 .... Gols                                   ## M ; 7122; 
+10708 .... Halbturn                               ##   ; 7131; 7123
+10709 .... Illmitz                                ## M ; 7142; 
+10710 .... Jois                                   ## M ; 7093; 
+10711 .... Kittsee                                ## M ; 2421; 
+10712 .... Mönchhof                               ##   ; 7123; 
+10713 .... Neusiedl am See                        ## ST; 7100; 
+10714 .... Nickelsdorf                            ##   ; 2425; 
+10715 .... Pama                                   ##   ; 2422; 
+10716 .... Pamhagen                               ##   ; 7152; 
+10717 .... Parndorf                               ##   ; 7111; 2471
+10718 .... Podersdorf am See                      ## M ; 7141; 
+10719 .... Sankt Andrä am Zicksee                 ## M ; 7161; 
+10720 .... Tadten                                 ##   ; 7162; 
+10721 .... Wallern im Burgenland                  ## M ; 7151; 
+10722 .... Weiden am See                          ## M ; 7121; 7100
+10723 .... Winden am See                          ##   ; 7092; 
+10724 .... Zurndorf                               ## M ; 2424; 
+10725 .... Neudorf                                ##   ; 2475; 
+10726 .... Potzneusiedl                           ##   ; 2473; 
+10727 .... Edelstal                               ##   ; 2413; 
+108   .. Oberpullendorf
+10801 .... Deutschkreutz                          ## M ; 7301; 
+10802 .... Draßmarkt                              ## M ; 7372; 7371
+10803 .... Frankenau-Unterpullendorf              ##   ; 7361; 7452
+10804 .... Großwarasdorf                          ##   ; 7304; 
+10805 .... Horitschon                             ## M ; 7312; 
+10806 .... Kaisersdorf                            ##   ; 7342; 
+10807 .... Kobersdorf                             ## M ; 7332; 7341
+10808 .... Lackenbach                             ## M ; 7322; 
+10809 .... Lockenhaus                             ## M ; 7442; 
+10810 .... Lutzmannsburg                          ## M ; 7361; 
+10811 .... Mannersdorf an der Rabnitz             ##   ; 7444; 7443
+10812 .... Markt Sankt Martin                     ## M ; 7341; 2812
+10813 .... Neckenmarkt                            ## M ; 7311; 
+10814 .... Neutal                                 ##   ; 7343; 
+10815 .... Nikitsch                               ##   ; 7302; 7361
+10816 .... Oberpullendorf                         ## ST; 7350; 7304
+10817 .... Pilgersdorf                            ##   ; 7441; 
+10818 .... Piringsdorf                            ##   ; 7373; 
+10819 .... Raiding                                ## M ; 7321; 
+10820 .... Ritzing                                ##   ; 7323; 
+10821 .... Steinberg-Dörfl                        ## M ; 7453; 
+10822 .... Stoob                                  ## M ; 7344; 
+10823 .... Weppersdorf                            ## M ; 7331; 
+10824 .... Lackendorf                             ##   ; 7321; 
+10825 .... Unterfrauenhaid                        ## M ; 7321; 
+10826 .... Unterrabnitz-Schwendgraben             ##   ; 7371; 
+10827 .... Weingraben                             ##   ; 7374; 
+10828 .... Oberloisdorf                           ##   ; 7451; 
+109   .. Oberwart
+10901 .... Bad Tatzmannsdorf                      ##   ; 7431; 
+10902 .... Bernstein                              ## M ; 7434; 2852
+10903 .... Deutsch Schützen-Eisenberg             ##   ; 7474; 
+10904 .... Grafenschachen                         ##   ; 7423; 
+10905 .... Großpetersdorf                         ## M ; 7503; 
+10906 .... Hannersdorf                            ##   ; 7473; 7474
+10907 .... Kemeten                                ##   ; 7531; 
+10908 .... Kohfidisch                             ## M ; 7512; 
+10909 .... Litzelsdorf                            ## M ; 7532; 
+10910 .... Loipersdorf-Kitzladen                  ##   ; 7411; 
+10911 .... Mariasdorf                             ## M ; 7433; 
+10912 .... Markt Allhau                           ## M ; 7411; 
+10913 .... Markt Neuhodis                         ## M ; 7464; 
+10914 .... Mischendorf                            ##   ; 7511; 
+10915 .... Oberdorf im Burgenland                 ##   ; 7501; 
+10916 .... Oberschützen                           ##   ; 7432; 2852 7400 7431
+10917 .... Oberwart                               ## ST; 7400; 
+10918 .... Pinkafeld                              ## ST; 7423; 
+10919 .... Rechnitz                               ## M ; 7471; 
+10920 .... Riedlingsdorf                          ## M ; 7422; 
+10921 .... Rotenturm an der Pinka                 ## M ; 7501; 
+10922 .... Schachendorf                           ##   ; 7472; 7503
+10923 .... Stadtschlaining                        ## ST; 7461; 7400
+10924 .... Unterkohlstätten                       ##   ; 7435; 7434
+10925 .... Unterwart                              ##   ; 7501; 
+10926 .... Weiden bei Rechnitz                    ##   ; 7463; 7461 7503
+10927 .... Wiesfleck                              ##   ; 7423; 
+10928 .... Wolfau                                 ## M ; 7412; 
+10929 .... Neustift an der Lafnitz                ## M ; 7423; 
+10930 .... Jabing                                 ##   ; 7503; 
+10931 .... Badersdorf                             ##   ; 7512; 
+10932 .... Schandorf                              ##   ; 7472; 
+2     Kärnten
+201   .. Klagenfurt Stadt
+20101 .... Klagenfurt am Wörthersee               ## SS; 9020; 9061 9063 9073 9201
+202   .. Villach Stadt
+20201 .... Villach                                ## SS; 9500; 9241 9504 9523 9524 9580 9585 9586 9587
+203   .. Hermagor
+20302 .... Dellach                                ##   ; 9635; 9640
+20305 .... Hermagor-Pressegger See                ## ST; 9620; 9615 9624 9631
+20306 .... Kirchbach                              ## M ; 9632; 9631 9633 9634
+20307 .... Kötschach-Mauthen                      ## M ; 9640; 9635 9651 9652
+20316 .... St. Stefan im Gailtal                  ##   ; 9623; 9614 9615 9711
+20320 .... Gitschtal                              ##   ; 9622; 9620
+20321 .... Lesachtal                              ##   ; 9653; 9652 9654 9655
+204   .. Klagenfurt Land
+20402 .... Ebenthal in Kärnten                    ## M ; 9065; 9020
+20403 .... Feistritz im Rosental                  ## M ; 9181; 9162
+20405 .... Ferlach                                ## ST; 9170; 9162 9163
+20409 .... Grafenstein                            ## M ; 9131; 
+20412 .... Keutschach am See                      ##   ; 9074; 
+20414 .... Köttmannsdorf                          ##   ; 9071; 9073 9161
+20415 .... Krumpendorf am Wörthersee              ##   ; 9201; 9061 9210
+20416 .... Ludmannsdorf                           ##   ; 9072; 9181
+20417 .... Maria Rain                             ##   ; 9161; 
+20418 .... Maria Saal                             ## M ; 9063; 9020 9061 9064
+20419 .... Maria Wörth                            ##   ; 9081; 9073 9082
+20421 .... Moosburg                               ## M ; 9062; 9061 9201 9210 9560
+20424 .... Pörtschach am Wörther See              ##   ; 9210; 9062 9201
+20425 .... Poggersdorf                            ##   ; 9130; 
+20428 .... St. Margareten im Rosental             ##   ; 9173; 
+20432 .... Schiefling am Wörthersee               ## M ; 9535; 9220
+20435 .... Techelsberg am Wörther See             ##   ; 9212; 9062 9220
+20441 .... Zell                                   ##   ; 9170; 9173
+20442 .... Magdalensberg                          ##   ; 9064; 9020 9063
+205   .. Sankt Veit an der Glan
+20501 .... Althofen                               ## ST; 9330; 9322
+20502 .... Brückl                                 ## M ; 9371; 9064 9103
+20503 .... Deutsch-Griffen                        ##   ; 9572; 9571
+20504 .... Eberstein                              ## M ; 9372; 9103 9371
+20505 .... Friesach                               ## ST; 9360; 9361 9375
+20506 .... Glödnitz                               ##   ; 9346; 9345
+20508 .... Gurk                                   ## M ; 9342; 9341 9344
+20509 .... Guttaring                              ## M ; 9334; 9330 9360 9374 9375
+20511 .... Hüttenberg                             ## M ; 9375; 8820 8822 9335 9376
+20512 .... Kappel am Krappfeld                    ##   ; 9321; 9314 9330 9334 9372 9373
+20513 .... Klein St. Paul                         ## M ; 9373; 9372 9374
+20515 .... Liebenfels                             ## M ; 9556; 9300 9554 9555
+20518 .... Metnitz                                ## M ; 9363; 8850 9362
+20519 .... Micheldorf                             ##   ; 9322; 9360
+20520 .... Mölbling                               ##   ; 9330; 9300 9312 9341
+20523 .... St. Georgen am Längsee                 ##   ; 9314; 9300 9313 9321
+20527 .... St. Veit an der Glan                   ## ST; 9300; 9063 9556
+20530 .... Straßburg                              ## ST; 9341; 
+20531 .... Weitensfeld im Gurktal                 ## M ; 9344; 9343 9345
+20534 .... Frauenstein                            ##   ; 9311; 9300 9300 9312 9556
+206   .. Spittal an der Drau
+20601 .... Bad Kleinkirchheim                     ##   ; 9546; 
+20602 .... Baldramsdorf                           ##   ; 9805; 9800
+20603 .... Berg im Drautal                        ##   ; 9771; 9761
+20604 .... Dellach im Drautal                     ##   ; 9772; 
+20605 .... Großkirchheim                          ##   ; 9843; 
+20607 .... Flattach                               ##   ; 9831; 
+20608 .... Gmünd in Kärnten                       ## ST; 9853; 
+20609 .... Greifenburg                            ## M ; 9761; 
+20610 .... Heiligenblut am Großglockner           ##   ; 9844; 9981
+20611 .... Irschen                                ##   ; 9773; 9781
+20613 .... Kleblach-Lind                          ##   ; 9753; 
+20616 .... Lendorf                                ##   ; 9811; 9800
+20618 .... Mallnitz                               ##   ; 9822; 
+20619 .... Malta                                  ##   ; 9854; 9853
+20620 .... Millstatt am See                       ## M ; 9872; 
+20622 .... Mörtschach                             ##   ; 9842; 9841
+20624 .... Mühldorf                               ##   ; 9814; 
+20625 .... Oberdrauburg                           ## M ; 9781; 
+20627 .... Obervellach                            ## M ; 9821; 
+20630 .... Radenthein                             ## ST; 9545; 9546 9872 9873
+20631 .... Rangersdorf                            ##   ; 9833; 9841
+20632 .... Rennweg am Katschberg                  ## M ; 9863; 9862
+20633 .... Sachsenburg                            ## M ; 9751; 9813
+20634 .... Seeboden am Millstätter See            ## M ; 9871; 9800 9851 9872
+20635 .... Spittal an der Drau                    ## ST; 9800; 9701 9702
+20636 .... Stall                                  ##   ; 9832; 
+20637 .... Steinfeld                              ## M ; 9754; 9753
+20638 .... Trebesing                              ##   ; 9852; 9853
+20639 .... Weißensee                              ##   ; 9762; 
+20640 .... Winklern                               ## M ; 9841; 9833
+20642 .... Krems in Kärnten                       ##   ; 9861; 9862
+20643 .... Lurnfeld                               ## M ; 9813; 9811 9812 9814
+20644 .... Reißeck                                ##   ; 9815; 9816
+207   .. Villach Land
+20701 .... Afritz am See                          ##   ; 9542; 
+20702 .... Arnoldstein                            ## M ; 9601; 9586 9587 9602
+20703 .... Arriach                                ##   ; 9543; 
+20705 .... Bad Bleiberg                           ## M ; 9530; 9531
+20707 .... Feistritz an der Gail                  ##   ; 9613; 
+20708 .... Feld am See                            ##   ; 9544; 
+20710 .... Ferndorf                               ##   ; 9702; 9701 9873
+20711 .... Finkenstein am Faaker See              ## M ; 9584; 9580 9581 9582 9583 9585 9586 9587
+20712 .... Fresach                                ##   ; 9712; 9702
+20713 .... Hohenthurn                             ##   ; 9613; 9601 9602
+20719 .... Nötsch im Gailtal                      ## M ; 9611; 9531 9612 9623
+20720 .... Paternion                              ## M ; 9711; 9701 9710 9714
+20721 .... Rosegg                                 ## M ; 9232; 9184 9581
+20722 .... St. Jakob im Rosental                  ## M ; 9184; 9182 9183
+20723 .... Stockenboi                             ##   ; 9713; 9701 9711 9714
+20724 .... Treffen am Ossiacher See               ## M ; 9521; 9520 9541 9542 9551
+20725 .... Velden am Wörther See                  ## M ; 9220; 9231 9536
+20726 .... Weißenstein                            ## M ; 9721; 9500 9710 9722
+20727 .... Wernberg                               ##   ; 9241; 9220
+208   .. Völkermarkt
+20801 .... Bleiburg                               ## ST; 9150; 
+20802 .... Diex                                   ##   ; 9103; 9102 9111 9112
+20803 .... Eberndorf                              ## M ; 9141; 9125
+20804 .... Eisenkappel-Vellach                    ## M ; 9135; 
+20805 .... Feistritz ob Bleiburg                  ## M ; 9143; 9150
+20806 .... Gallizien                              ##   ; 9132; 9123 9131 9133 9173
+20807 .... Globasnitz                             ##   ; 9142; 9141 9143
+20808 .... Griffen                                ## M ; 9112; 9103 9104 9111 9113
+20810 .... Neuhaus                                ##   ; 9155; 
+20812 .... Ruden                                  ##   ; 9113; 9111 9112
+20813 .... St. Kanzian am Klopeiner See           ##   ; 9122; 
+20815 .... Sittersdorf                            ##   ; 9133; 
+20817 .... Völkermarkt                            ## ST; 9100; 9064 9102 9103 9111 9112 9113 9121 9371
+209   .. Wolfsberg
+20901 .... Bad St. Leonhard im Lavanttal          ## ST; 9462; 9441 9461 9463
+20905 .... Frantschach-St. Gertraud               ## M ; 9413; 9400
+20909 .... Lavamünd                               ## M ; 9473; 9423 9472
+20911 .... Preitenegg                             ##   ; 9451; 9441
+20912 .... Reichenfels                            ## M ; 9463; 9462
+20913 .... St. Andrä                              ## ST; 9433; 9104 9112 9421 9422 9431 9470
+20914 .... St. Georgen im Lavanttal               ##   ; 9423; 9470
+20918 .... St. Paul im Lavanttal                  ## M ; 9470; 9112 9433 9472 9473
+20923 .... Wolfsberg                              ## ST; 9400; 9411 9412 9413 9421 9431 9433 9441 9461 9462
+210   .. Feldkirchen
+21001 .... Albeck                                 ##   ; 9571; 9345
+21002 .... Feldkirchen in Kärnten                 ## ST; 9560; 9062
+21003 .... Glanegg                                ##   ; 9555; 9556 9560
+21004 .... Gnesau                                 ##   ; 9563; 
+21005 .... Himmelberg                             ##   ; 9562; 9552 9560 9563
+21006 .... Ossiach                                ##   ; 9570; 9231 9560
+21007 .... Reichenau                              ##   ; 9565; 9564
+21008 .... St. Urban                              ##   ; 9554; 9556
+21009 .... Steindorf am Ossiacher See             ##   ; 9551; 9552 9560
+21010 .... Steuerberg                             ##   ; 9560; 
+3     Niederösterreich
+301   .. Krems an der Donau(Stadt)
+30101 .... Krems an der Donau                     ## SS; 3500; 3506 3541
+302   .. Sankt Pölten(Stadt)
+30201 .... St. Pölten                             ## SS; 3100; 3104 3105 3107 3140 3151 3385
+303   .. Waidhofen an der Ybbs(Stadt)
+30301 .... Waidhofen an der Ybbs                  ## SS; 3340; 3263
+304   .. Wiener Neustadt(Stadt)
+30401 .... Wiener Neustadt                        ## SS; 2700; 2751 2752
+305   .. Amstetten
+30501 .... Allhartsberg                           ## M ; 3365; 
+30502 .... Amstetten                              ## ST; 3300; 3311 3361 3362 3363
+30503 .... Ardagger                               ## M ; 3321; 3300
+30504 .... Aschbach-Markt                         ## M ; 3361; 
+30506 .... Behamberg                              ##   ; 4441; 
+30507 .... Biberbach                              ##   ; 3353; 3331 3332 3333 3361
+30508 .... Ennsdorf                               ##   ; 4482; 
+30509 .... Ernsthofen                             ##   ; 4432; 4300
+30510 .... Ertl                                   ##   ; 3355; 
+30511 .... Euratsfeld                             ## M ; 3324; 
+30512 .... Ferschnitz                             ## M ; 3325; 3372
+30514 .... Haag                                   ## ST; 3350; 
+30515 .... Haidershofen                           ##   ; 4431; 
+30516 .... Hollenstein an der Ybbs                ##   ; 3343; 
+30517 .... Kematen an der Ybbs                    ## M ; 3331; 3361
+30520 .... Neuhofen an der Ybbs                   ## M ; 3364; 
+30521 .... Neustadtl an der Donau                 ## M ; 3323; 
+30522 .... Oed-Oehling                            ## M ; 3362; 3312 3361
+30524 .... Opponitz                               ##   ; 3342; 3341
+30526 .... St. Georgen am Reith                   ##   ; 3344; 
+30527 .... St. Georgen am Ybbsfelde               ## M ; 3304; 
+30529 .... St. Pantaleon-Erla                     ##   ; 4303; 
+30530 .... St. Peter in der Au                    ## M ; 3352; 3350 4442 4443
+30531 .... St. Valentin                           ## ST; 4300; 3350 4482
+30532 .... Seitenstetten                          ## M ; 3353; 
+30533 .... Sonntagberg                            ## M ; 3332; 3331 3333 3340
+30534 .... Strengberg                             ## M ; 3314; 3354
+30536 .... Viehdorf                               ##   ; 3322; 
+30538 .... Wallsee-Sindelburg                     ## M ; 3313; 
+30539 .... Weistrach                              ##   ; 3351; 
+30541 .... Winklarn                               ##   ; 3300; 3363
+30542 .... Wolfsbach                              ## M ; 3354; 3314
+30543 .... Ybbsitz                                ## M ; 3341; 3340
+30544 .... Zeillern                               ## M ; 3311; 3300 3312 3313 3321 3362
+306   .. Baden
+30601 .... Alland                                 ## M ; 2534; 2500 2532 2533 2565
+30602 .... Altenmarkt an der Triesting            ## M ; 2571; 2564 2565 2572
+30603 .... Bad Vöslau                             ## ST; 2540; 
+30604 .... Baden                                  ## ST; 2500; 
+30605 .... Berndorf                               ## ST; 2560; 
+30607 .... Ebreichsdorf                           ## ST; 2483; 2442
+30608 .... Enzesfeld-Lindabrunn                   ## M ; 2551; 2544 2552
+30609 .... Furth an der Triesting                 ##   ; 2564; 
+30612 .... Günselsdorf                            ## M ; 2525; 
+30613 .... Heiligenkreuz                          ##   ; 2532; 2500 2534
+30614 .... Hernstein                              ## M ; 2560; 
+30615 .... Hirtenberg                             ## M ; 2552; 
+30616 .... Klausen-Leopoldsdorf                   ##   ; 2533; 3033 3053
+30618 .... Kottingbrunn                           ## M ; 2542; 2540 2544
+30620 .... Leobersdorf                            ## M ; 2544; 
+30621 .... Mitterndorf an der Fischa              ##   ; 2441; 2440
+30623 .... Oberwaltersdorf                        ## M ; 2522; 
+30625 .... Pfaffstätten                           ## M ; 2511; 
+30626 .... Pottendorf                             ## M ; 2486; 2485
+30627 .... Pottenstein                            ## M ; 2563; 2564
+30629 .... Reisenberg                             ## M ; 2440; 2452
+30631 .... Schönau an der Triesting               ##   ; 2525; 2544 2602
+30633 .... Seibersdorf                            ## M ; 2443; 2444
+30635 .... Sooß                                   ## M ; 2504; 
+30636 .... Tattendorf                             ##   ; 2523; 
+30637 .... Teesdorf                               ## M ; 2524; 
+30639 .... Traiskirchen                           ## ST; 2514; 2512
+30641 .... Trumau                                 ## M ; 2521; 
+30645 .... Weissenbach an der Triesting           ## M ; 2564; 2565 2571
+30646 .... Blumau-Neurißhof                       ##   ; 2602; 
+307   .. Bruck an der Leitha
+30701 .... Au am Leithaberge                      ## M ; 2451; 
+30702 .... Bad Deutsch-Altenburg                  ## M ; 2405; 
+30703 .... Berg                                   ##   ; 2413; 
+30704 .... Bruck an der Leitha                    ## ST; 2460; 2462
+30706 .... Enzersdorf an der Fischa               ## M ; 2431; 2433
+30708 .... Göttlesbrunn-Arbesthal                 ##   ; 2464; 
+30709 .... Götzendorf an der Leitha               ## M ; 2434; 2435
+30710 .... Hainburg a.d. Donau                    ## ST; 2410; 
+30711 .... Haslau-Maria Ellend                    ##   ; 2402; 
+30712 .... Höflein                                ##   ; 2465; 
+30713 .... Hof am Leithaberge                     ## M ; 2451; 
+30715 .... Hundsheim                              ##   ; 2405; 
+30716 .... Mannersdorf am Leithagebirge           ## ST; 2452; 2434
+30718 .... Petronell-Carnuntum                    ## M ; 2404; 
+30719 .... Prellenkirchen                         ## M ; 2472; 2471 2473
+30721 .... Rohrau                                 ## M ; 2471; 
+30722 .... Scharndorf                             ##   ; 2403; 
+30724 .... Sommerein                              ## M ; 2453; 2434
+30726 .... Trautmannsdorf an der Leitha           ## M ; 2454; 2463
+30728 .... Wolfsthal                              ##   ; 2412; 
+308   .. Gänserndorf
+30801 .... Aderklaa                               ##   ; 2232; 
+30802 .... Andlersdorf                            ##   ; 2301; 
+30803 .... Angern an der March                    ## M ; 2261; 2252 2262
+30804 .... Auersthal                              ## M ; 2214; 
+30805 .... Bad Pirawarth                          ## M ; 2222; 
+30808 .... Deutsch-Wagram                         ## ST; 2232; 
+30810 .... Drösing                                ## M ; 2265; 
+30811 .... Dürnkrut                               ## M ; 2263; 
+30812 .... Ebenthal                               ## M ; 2251; 
+30813 .... Eckartsau                              ## M ; 2305; 2304
+30814 .... Engelhartstetten                       ## M ; 2292; 2294
+30817 .... Gänserndorf                            ## ST; 2230; 
+30819 .... Glinzendorf                            ##   ; 2282; 
+30821 .... Groß-Enzersdorf                        ## ST; 2301; 
+30822 .... Großhofen                              ##   ; 2282; 
+30824 .... Groß-Schweinbarth                      ## M ; 2221; 
+30825 .... Haringsee                              ##   ; 2286; 
+30826 .... Hauskirchen                            ##   ; 2184; 2185
+30827 .... Hohenau an der March                   ## M ; 2273; 
+30828 .... Hohenruppersdorf                       ## M ; 2223; 
+30829 .... Jedenspeigen                           ## M ; 2264; 
+30830 .... Lassee                                 ## M ; 2291; 2293
+30831 .... Leopoldsdorf im Marchfelde             ## M ; 2285; 
+30834 .... Mannsdorf an der Donau                 ##   ; 2304; 
+30835 .... Marchegg                               ## ST; 2293; 2294
+30836 .... Markgrafneusiedl                       ##   ; 2282; 
+30838 .... Matzen-Raggendorf                      ## M ; 2243; 2215 2223
+30841 .... Neusiedl an der Zaya                   ## M ; 2183; 
+30842 .... Obersiebenbrunn                        ## M ; 2283; 
+30844 .... Orth an der Donau                      ## M ; 2304; 
+30845 .... Palterndorf-Dobermannsdorf             ## M ; 2181; 2182
+30846 .... Parbasdorf                             ##   ; 2232; 
+30848 .... Prottes                                ## M ; 2242; 
+30849 .... Raasdorf                               ##   ; 2281; 
+30850 .... Ringelsdorf-Niederabsdorf              ## M ; 2272; 
+30852 .... Schönkirchen-Reyersdorf                ## M ; 2241; 
+30854 .... Spannberg                              ## M ; 2244; 
+30856 .... Strasshof an der Nordbahn              ## M ; 2231; 
+30857 .... Sulz im Weinviertel                    ## M ; 2224; 
+30858 .... Untersiebenbrunn                       ##   ; 2284; 
+30859 .... Velm-Götzendorf                        ##   ; 2245; 
+30860 .... Weikendorf                             ## M ; 2253; 
+30863 .... Zistersdorf                            ## ST; 2225; 
+30865 .... Weiden an der March                    ##   ; 2295; 
+309   .. Gmünd
+30902 .... Amaliendorf-Aalfang                    ## M ; 3872; 3860
+30903 .... Brand-Nagelberg                        ## M ; 3871; 3873
+30904 .... Eggern                                 ## M ; 3861; 3860
+30906 .... Eisgarn                                ## M ; 3862; 
+30908 .... Gmünd                                  ## ST; 3950; 3871
+30909 .... Großdietmanns                          ## M ; 3950; 3961 3962
+30910 .... Bad Großpertholz                       ## M ; 3972; 3922 3973
+30912 .... Großschönau                            ## M ; 3922; 3923
+30913 .... Moorbad Harbach                        ##   ; 3970; 3971
+30915 .... Haugschlag                             ##   ; 3874; 
+30916 .... Heidenreichstein                       ## ST; 3860; 3834 3873
+30917 .... Hirschbach                             ## M ; 3942; 
+30920 .... Hoheneich                              ## M ; 3945; 
+30921 .... Kirchberg am Walde                     ## M ; 3932; 
+30925 .... Litschau                               ## ST; 3874; 3873
+30929 .... Reingers                               ##   ; 3863; 3874
+30932 .... St. Martin                             ## M ; 3971; 3970 3972
+30935 .... Schrems                                ## ST; 3943; 3872 3944
+30939 .... Unserfrau-Altweitra                    ##   ; 3970; 3962
+30940 .... Waldenstein                            ##   ; 3961; 3945
+30942 .... Weitra                                 ## ST; 3970; 
+310   .. Hollabrunn
+31001 .... Alberndorf im Pulkautal                ##   ; 2054; 
+31008 .... Göllersdorf                            ## M ; 2013; 
+31009 .... Grabern                                ## M ; 2020; 2042
+31014 .... Guntersdorf                            ## M ; 2042; 
+31015 .... Hadres                                 ## M ; 2061; 
+31016 .... Hardegg                                ## ST; 2083; 2081 2082 2092
+31018 .... Haugsdorf                              ## M ; 2054; 2053
+31019 .... Heldenberg                             ##   ; 3704; 3701 3710
+31021 .... Hohenwarth-Mühlbach a.M.               ## M ; 3472; 3473 3711
+31022 .... Hollabrunn                             ## ST; 2020; 2014 2031 2032
+31025 .... Mailberg                               ## M ; 2024; 
+31026 .... Maissau                                ## ST; 3712; 3713 3721
+31028 .... Nappersdorf-Kammersdorf                ## M ; 2033; 2023
+31033 .... Pernersdorf                            ## M ; 2052; 2053
+31035 .... Pulkau                                 ## ST; 3741; 3742
+31036 .... Ravelsbach                             ## M ; 3720; 
+31037 .... Retz                                   ## ST; 2070; 2074 2081
+31038 .... Retzbach                               ##   ; 2074; 2070
+31041 .... Schrattenthal                          ## ST; 2073; 
+31042 .... Seefeld-Kadolz                         ## M ; 2062; 
+31043 .... Sitzendorf an der Schmida              ## M ; 3714; 3710 3721
+31051 .... Wullersdorf                            ## M ; 2041; 2022 2023 2042
+31052 .... Zellerndorf                            ## M ; 2051; 2073
+31053 .... Ziersdorf                              ## M ; 3710; 3711
+311   .. Horn
+31101 .... Altenburg                              ##   ; 3591; 
+31102 .... Brunn an der Wild                      ##   ; 3595; 
+31103 .... Burgschleinitz-Kühnring                ## M ; 3730; 3713
+31104 .... Drosendorf-Zissersdorf                 ## ST; 2095; 2094
+31105 .... Eggenburg                              ## ST; 3730; 
+31106 .... Gars am Kamp                           ## M ; 3571; 3573
+31107 .... Geras                                  ## ST; 2093; 2094 3752 3753
+31109 .... Horn                                   ## ST; 3580; 3751
+31110 .... Irnfritz-Messern                       ## M ; 3754; 3761
+31111 .... Japons                                 ## M ; 3763; 3814
+31113 .... Langau                                 ## M ; 2091; 
+31114 .... Meiseldorf                             ##   ; 3744; 3730 3751
+31117 .... Pernegg                                ## M ; 3753; 
+31119 .... Röhrenbach                             ##   ; 3592; 3593
+31120 .... Röschitz                               ## M ; 3743; 3730
+31121 .... Rosenburg-Mold                         ##   ; 3573; 3571 3580 3744
+31123 .... St. Bernhard-Frauenhofen               ##   ; 3580; 3761
+31124 .... Sigmundsherberg                        ## M ; 3751; 3742 3752
+31129 .... Weitersfeld                            ## M ; 2084; 2081 2091 3742 3752
+31130 .... Straning-Grafenberg                    ## M ; 3722; 3730
+312   .. Korneuburg
+31201 .... Bisamberg                              ## M ; 2102; 2100
+31202 .... Enzersfeld im Weinviertel              ## M ; 2202; 
+31203 .... Ernstbrunn                             ## M ; 2115; 2113 2116
+31204 .... Großmugl                               ## M ; 2002; 2032
+31205 .... Großrußbach                            ## M ; 2114; 2113
+31206 .... Hagenbrunn                             ## M ; 2102; 2201 2202
+31207 .... Harmannsdorf                           ## M ; 2111; 2112
+31208 .... Hausleiten                             ## M ; 3464; 2000
+31213 .... Korneuburg                             ## ST; 2100; 
+31214 .... Langenzersdorf                         ## M ; 2103; 1210 2100 2102
+31215 .... Leitzersdorf                           ##   ; 2003; 2011 2105
+31216 .... Leobendorf                             ## M ; 2100; 2105 2111
+31224 .... Rußbach                                ##   ; 3702; 
+31226 .... Sierndorf                              ## M ; 2011; 2000
+31227 .... Spillern                               ## M ; 2104; 
+31228 .... Stetteldorf am Wagram                  ## M ; 3463; 3430 3464 3701
+31229 .... Stetten                                ##   ; 2100; 
+31230 .... Stockerau                              ## ST; 2000; 2003
+31234 .... Niederhollabrunn                       ## M ; 2004; 2003
+313   .. Krems(Land)
+31301 .... Aggsbach                               ## M ; 3641; 3643
+31302 .... Albrechtsberg an der Großen Krems      ## M ; 3613; 
+31303 .... Bergern im Dunkelsteinerwald           ##   ; 3512; 3122 3642
+31304 .... Dürnstein                              ## ST; 3601; 
+31308 .... Grafenegg                              ## M ; 3492; 3485
+31309 .... Furth bei Göttweig                     ## M ; 3511; 
+31310 .... Gedersdorf                             ##   ; 3494; 3485
+31311 .... Gföhl                                  ## ST; 3542; 3521 3553
+31315 .... Hadersdorf-Kammern                     ## M ; 3493; 
+31319 .... Jaidhof                                ##   ; 3542; 3532 3543 3553 3572
+31321 .... Krumau am Kamp                         ## M ; 3543; 3544
+31322 .... Langenlois                             ## ST; 3550; 3553 3561
+31323 .... Lengenfeld                             ## M ; 3552; 
+31324 .... Lichtenau im Waldviertel               ## M ; 3522; 3524 3542 3613
+31326 .... Maria Laach am Jauerling               ## M ; 3643; 3620
+31327 .... Mautern an der Donau                   ## ST; 3512; 
+31330 .... Mühldorf                               ## M ; 3622; 
+31333 .... Paudorf                                ## M ; 3508; 
+31336 .... Rastenfeld                             ## M ; 3532; 3543
+31337 .... Rohrendorf bei Krems                   ##   ; 3495; 
+31338 .... Rossatz-Arnsdorf                       ## M ; 3602; 3621
+31340 .... St. Leonhard am Hornerwald             ## M ; 3572; 3571
+31343 .... Senftenberg                            ## M ; 3541; 3500
+31344 .... Spitz                                  ## M ; 3620; 
+31346 .... Straß im Straßertale                   ## M ; 3491; 
+31347 .... Stratzing                              ## M ; 3552; 3500
+31350 .... Weinzierl am Walde                     ##   ; 3521; 3541 3610 3611 3613
+31351 .... Weißenkirchen in der Wachau            ## M ; 3610; 3611
+31355 .... Schönberg am Kamp                      ## M ; 3562; 3564
+31356 .... Droß                                   ##   ; 3552; 3541
+314   .. Lilienfeld
+31401 .... Annaberg                               ##   ; 3222; 3223
+31402 .... Eschenau                               ##   ; 3153; 
+31403 .... Hainfeld                               ## ST; 3170; 2572
+31404 .... Hohenberg                              ## M ; 3192; 3183
+31405 .... Kaumberg                               ## M ; 2572; 
+31406 .... Kleinzell                              ##   ; 3171; 2663 3163 3192
+31407 .... Lilienfeld                             ## ST; 3180; 
+31408 .... Mitterbach am Erlaufsee                ##   ; 3224; 3223
+31409 .... Ramsau                                 ##   ; 3172; 3170
+31410 .... Rohrbach an der Gölsen                 ##   ; 3163; 
+31411 .... St. Aegyd am Neuwalde                  ## M ; 3193; 3195 3222 8630 8694
+31412 .... St. Veit an der Gölsen                 ## M ; 3161; 3150 3160 3162 3163
+31413 .... Traisen                                ## M ; 3160; 
+31414 .... Türnitz                                ## M ; 3184; 3180 3183
+315   .. Melk
+31502 .... Artstetten-Pöbring                     ## M ; 3661; 3652
+31503 .... Bergland                               ##   ; 3254; 
+31504 .... Bischofstetten                         ## M ; 3232; 3233
+31505 .... Blindenmarkt                           ## M ; 3372; 
+31506 .... Dorfstetten                            ##   ; 4392; 
+31507 .... Dunkelsteinerwald                      ## M ; 3392; 3122 3382 3642
+31508 .... Erlauf                                 ## M ; 3253; 3380 3381
+31509 .... Golling an der Erlauf                  ## M ; 3381; 
+31511 .... Hofamt Priel                           ##   ; 3681; 
+31513 .... Hürm                                   ## M ; 3383; 3382
+31514 .... Kilb                                   ## M ; 3233; 3203 3240
+31515 .... Kirnberg an der Mank                   ##   ; 3241; 3240 3243
+31516 .... Klein-Pöchlarn                         ## M ; 3660; 3652
+31517 .... Krummnußbaum                           ## M ; 3375; 3374
+31519 .... Leiben                                 ## M ; 3652; 
+31520 .... Loosdorf                               ## M ; 3382; 
+31521 .... Mank                                   ## ST; 3240; 3233
+31522 .... Marbach an der Donau                   ## M ; 3671; 3672
+31523 .... Maria Taferl                           ## M ; 3672; 3661
+31524 .... Melk                                   ## ST; 3390; 
+31525 .... Münichreith-Laimbach                   ##   ; 3662; 3650 3661 3663
+31527 .... Neumarkt an der Ybbs                   ## M ; 3371; 3370 3373
+31528 .... Nöchling                               ## M ; 3691; 
+31530 .... Persenbeug-Gottsdorf                   ## M ; 3680; 
+31531 .... Petzenkirchen                          ## M ; 3252; 
+31533 .... Pöchlarn                               ## ST; 3380; 3253
+31534 .... Pöggstall                              ## M ; 3650; 3653 3663
+31535 .... Raxendorf                              ## M ; 3654; 3650 3653
+31537 .... Ruprechtshofen                         ## M ; 3244; 3243 3252
+31539 .... St. Leonhard am Forst                  ## M ; 3243; 3240 3241
+31540 .... St. Martin-Karlsbach                   ## M ; 3376; 
+31541 .... St. Oswald                             ##   ; 3684; 3680 3683
+31542 .... Schönbühel-Aggsbach                    ## M ; 3642; 3392
+31543 .... Schollach                              ##   ; 3382; 3390
+31546 .... Weiten                                 ## M ; 3653; 
+31549 .... Ybbs an der Donau                      ## ST; 3370; 3374
+31550 .... Zelking-Matzleinsdorf                  ##   ; 3393; 3244 3253 3390
+31551 .... Texingtal                              ##   ; 3242; 3241
+31552 .... Yspertal                               ## M ; 3683; 
+31553 .... Emmersdorf an der Donau                ## M ; 3644; 3652 3653
+316   .. Mistelbach
+31601 .... Altlichtenwarth                        ##   ; 2144; 
+31603 .... Asparn an der Zaya                     ## M ; 2151; 
+31604 .... Bernhardsthal                          ## M ; 2275; 2276
+31605 .... Bockfließ                              ## M ; 2213; 2231
+31606 .... Drasenhofen                            ##   ; 2165; 
+31608 .... Falkenstein                            ## M ; 2162; 
+31609 .... Fallbach                               ##   ; 2133; 
+31611 .... Gaubitsch                              ##   ; 2154; 
+31612 .... Gaweinstal                             ## M ; 2191; 2223
+31613 .... Gnadendorf                             ##   ; 2152; 2032
+31614 .... Großebersdorf                          ## M ; 2203; 
+31615 .... Großengersdorf                         ## M ; 2212; 
+31616 .... Großharras                             ## M ; 2034; 2063
+31617 .... Großkrut                               ## M ; 2143; 
+31620 .... Hausbrunn                              ## M ; 2145; 
+31621 .... Herrnbaumgarten                        ## M ; 2171; 
+31622 .... Hochleithen                            ##   ; 2123; 2125
+31627 .... Kreuttal                               ##   ; 2123; 2112 2114
+31628 .... Kreuzstetten                           ## M ; 2124; 2125
+31629 .... Laa an der Thaya                       ## ST; 2136; 2064 2133 2135
+31630 .... Ladendorf                              ## M ; 2126; 2125
+31633 .... Mistelbach                             ## ST; 2130; 2132 2192
+31634 .... Neudorf bei Staatz                     ## M ; 2135; 2136
+31636 .... Niederleis                             ##   ; 2116; 2115
+31642 .... Pillichsdorf                           ## M ; 2211; 
+31644 .... Poysdorf                               ## ST; 2170; 2135 2141 2161 2193
+31645 .... Rabensburg                             ## M ; 2274; 
+31646 .... Schrattenberg                          ##   ; 2172; 
+31649 .... Staatz                                 ## M ; 2134; 2141
+31650 .... Stronsdorf                             ## M ; 2153; 
+31651 .... Ulrichskirchen-Schleinbach             ## M ; 2122; 2123
+31652 .... Unterstinkenbrunn                      ##   ; 2154; 
+31653 .... Wildendürnbach                         ##   ; 2164; 2163
+31654 .... Wilfersdorf                            ## M ; 2193; 2185
+31655 .... Wolkersdorf im Weinviertel             ## ST; 2120; 2122
+31658 .... Ottenthal                              ##   ; 2163; 
+317   .. Mödling
+31701 .... Achau                                  ##   ; 2481; 
+31702 .... Biedermannsdorf                        ## M ; 2362; 2351
+31703 .... Breitenfurt bei Wien                   ## M ; 2384; 
+31704 .... Brunn am Gebirge                       ## M ; 2345; 2344
+31706 .... Gaaden                                 ##   ; 2531; 
+31707 .... Gießhübl                               ##   ; 2372; 
+31709 .... Gumpoldskirchen                        ## M ; 2352; 2353
+31710 .... Guntramsdorf                           ## M ; 2353; 
+31711 .... Hennersdorf                            ##   ; 2332; 
+31712 .... Hinterbrühl                            ## M ; 2371; 2393
+31713 .... Kaltenleutgeben                        ## M ; 2391; 2393
+31714 .... Laab im Walde                          ##   ; 2381; 
+31715 .... Laxenburg                              ## M ; 2361; 2351
+31716 .... Maria Enzersdorf                       ## M ; 2344; 
+31717 .... Mödling                                ## ST; 2340; 
+31718 .... Münchendorf                            ##   ; 2482; 
+31719 .... Perchtoldsdorf                         ## M ; 2380; 1230 2345
+31723 .... Vösendorf                              ## M ; 2331; 2334
+31725 .... Wiener Neudorf                         ## M ; 2351; 
+31726 .... Wienerwald                             ##   ; 2392; 2393
+318   .. Neunkirchen
+31801 .... Altendorf                              ##   ; 2632; 2640
+31802 .... Aspang-Markt                           ## M ; 2870; 
+31803 .... Aspangberg-St. Peter                   ##   ; 2870; 2872 2873
+31804 .... Breitenau                              ##   ; 2624; 
+31805 .... Breitenstein                           ##   ; 2673; 2641 2651
+31806 .... Buchbach                               ##   ; 2630; 2640
+31807 .... Edlitz                                 ## M ; 2842; 2840
+31808 .... Enzenreith                             ##   ; 2640; 2632
+31809 .... Feistritz am Wechsel                   ##   ; 2873; 2870 2880
+31810 .... Gloggnitz                              ## ST; 2640; 2671
+31811 .... Grafenbach-St. Valentin                ## M ; 2632; 2620 2630
+31812 .... Grimmenstein                           ## M ; 2840; 2831
+31813 .... Grünbach am Schneeberg                 ## M ; 2733; 
+31814 .... Kirchberg am Wechsel                   ## M ; 2880; 2640 2870 2881
+31815 .... Mönichkirchen                          ## M ; 2872; 7421
+31817 .... Natschbach-Loipersbach                 ##   ; 2620; 
+31818 .... Neunkirchen                            ## ST; 2620; 
+31820 .... Otterthal                              ##   ; 2880; 
+31821 .... Payerbach                              ## M ; 2650; 2640 2671 2673
+31823 .... Pitten                                 ## M ; 2823; 2822
+31825 .... Prigglitz                              ##   ; 2640; 2630
+31826 .... Puchberg am Schneeberg                 ## M ; 2734; 2733 2761
+31827 .... Raach am Hochgebirge                   ##   ; 2640; 
+31829 .... Reichenau an der Rax                   ## M ; 2651; 
+31830 .... St. Corona am Wechsel                  ##   ; 2880; 2870
+31831 .... St. Egyden am Steinfeld                ##   ; 2731; 2624
+31832 .... Scheiblingkirchen-Thernberg            ## M ; 2831; 2813 2832 2833
+31833 .... Schottwien                             ## M ; 2641; 
+31834 .... Schrattenbach                          ##   ; 2733; 
+31835 .... Schwarzau am Steinfeld                 ##   ; 2625; 2822
+31836 .... Schwarzau im Gebirge                   ## M ; 2662; 2661
+31837 .... Seebenstein                            ##   ; 2824; 2831
+31838 .... Semmering                              ##   ; 2680; 2673
+31839 .... Ternitz                                ## ST; 2630; 2620 2631 2632 2732 2733 2734
+31840 .... Thomasberg                             ##   ; 2842; 2813 2840 2851 2870
+31841 .... Trattenbach                            ##   ; 2881; 
+31842 .... Bürg-Vöstenhof                         ##   ; 2630; 
+31843 .... Warth                                  ## M ; 2831; 2840 2880
+31844 .... Wartmannstetten                        ## M ; 2620; 
+31845 .... Willendorf                             ##   ; 2732; 2731
+31846 .... Wimpassing im Schwarzatale             ## M ; 2632; 
+31847 .... Würflach                               ##   ; 2732; 
+31848 .... Zöbern                                 ##   ; 2871; 2851 2852 2870 8244
+31849 .... Höflein an der Hohen Wand              ##   ; 2732; 2724 2733
+319   .. Sankt Pölten(Land)
+31901 .... Altlengbach                            ## M ; 3033; 3032 3051 3052 3053
+31902 .... Asperhofen                             ## M ; 3041; 3034 3443 3451
+31903 .... Böheimkirchen                          ## M ; 3071; 3072 3140
+31904 .... Brand-Laaben                           ##   ; 3053; 3052 3073
+31905 .... Eichgraben                             ## M ; 3032; 
+31906 .... Frankenfels                            ## M ; 3213; 3212 3214
+31907 .... Gerersdorf                             ##   ; 3385; 
+31909 .... Hofstetten-Grünau                      ## M ; 3202; 3150 3203 3233
+31910 .... Hafnerbach                             ## M ; 3386; 
+31911 .... Haunoldstein                           ##   ; 3384; 
+31912 .... Herzogenburg                           ## ST; 3130; 3454
+31913 .... Inzersdorf-Getzersdorf                 ##   ; 3131; 
+31915 .... Kapelln                                ## M ; 3141; 
+31916 .... Karlstetten                            ## M ; 3121; 
+31917 .... Kasten bei Böheimkirchen               ##   ; 3072; 3071 3074 3144
+31918 .... Kirchberg an der Pielach               ## M ; 3204; 
+31919 .... Kirchstetten                           ## M ; 3062; 3061
+31920 .... Loich                                  ##   ; 3211; 3204
+31921 .... Maria-Anzbach                          ## M ; 3034; 3032 3033 3040
+31922 .... Markersdorf-Haindorf                   ## M ; 3385; 3384
+31923 .... Michelbach                             ## M ; 3074; 3073
+31925 .... Neidling                               ## M ; 3110; 
+31926 .... Neulengbach                            ## ST; 3040; 3034 3051 3061 3072
+31927 .... Neustift-Innermanzing                  ##   ; 3052; 3033 3051 3073
+31928 .... Nußdorf ob der Traisen                 ## M ; 3134; 
+31929 .... Ober-Grafendorf                        ## M ; 3200; 
+31930 .... Obritzberg-Rust                        ## M ; 3123; 
+31932 .... Prinzersdorf                           ## M ; 3385; 
+31934 .... Pyhra                                  ## M ; 3143; 3071 3104 3144
+31935 .... Rabenstein an der Pielach              ## M ; 3203; 
+31938 .... St. Margarethen an der Sierning        ##   ; 3231; 
+31939 .... Schwarzenbach an der Pielach           ##   ; 3212; 
+31940 .... Statzendorf                            ##   ; 3125; 
+31941 .... Stössing                               ##   ; 3073; 3053 3072 3074
+31943 .... Traismauer                             ## ST; 3133; 
+31945 .... Weinburg                               ##   ; 3205; 
+31946 .... Perschling                             ##   ; 3142; 
+31947 .... Wilhelmsburg                           ## ST; 3150; 
+31948 .... Wölbling                               ## M ; 3124; 3122 3125
+320   .. Scheibbs
+32001 .... Gaming                                 ## M ; 3292; 3223 3264 3291 3293 3294 3295 8924
+32002 .... Göstling an der Ybbs                   ## M ; 3345; 
+32003 .... Gresten                                ## M ; 3264; 
+32004 .... Gresten-Land                           ##   ; 3264; 3341
+32005 .... Lunz am See                            ## M ; 3293; 3294
+32006 .... Oberndorf an der Melk                  ## M ; 3281; 3241 3242
+32007 .... Puchenstuben                           ##   ; 3214; 3221 3223
+32008 .... Purgstall an der Erlauf                ## M ; 3251; 
+32009 .... Randegg                                ## M ; 3263; 3264 3340 3364
+32010 .... Reinsberg                              ##   ; 3264; 
+32011 .... St. Anton an der Jeßnitz               ##   ; 3283; 3213 3214 3242 3270 3282 3292
+32012 .... St. Georgen an der Leys                ##   ; 3282; 3242
+32013 .... Scheibbs                               ## ST; 3270; 3283
+32014 .... Steinakirchen am Forst                 ## M ; 3261; 3325 3371
+32015 .... Wang                                   ## M ; 3262; 3325
+32016 .... Wieselburg                             ## ST; 3250; 
+32017 .... Wieselburg-Land                        ##   ; 3250; 3251 3252 3281 3371 3373
+32018 .... Wolfpassing                            ##   ; 3261; 3371
+321   .. Tulln
+32101 .... Absdorf                                ## M ; 3462; 
+32104 .... Atzenbrugg                             ## M ; 3452; 
+32106 .... Fels am Wagram                         ## M ; 3481; 3482
+32107 .... Grafenwörth                            ## M ; 3484; 3483
+32109 .... Großriedenthal                         ##   ; 3471; 3470
+32110 .... Großweikersdorf                        ## M ; 3701; 
+32112 .... Judenau-Baumgarten                     ## M ; 3441; 
+32114 .... Kirchberg am Wagram                    ## M ; 3470; 3465 3474
+32115 .... Königsbrunn am Wagram                  ## M ; 3465; 3462 3701
+32116 .... Königstetten                           ## M ; 3433; 
+32119 .... Langenrohr                             ## M ; 3442; 3435 3435
+32120 .... Michelhausen                           ## M ; 3451; 3441 3452
+32131 .... Sieghartskirchen                       ## M ; 3443; 3004 3434 3441 3451
+32132 .... Sitzenberg-Reidling                    ##   ; 3454; 
+32134 .... Tulbing                                ## M ; 3434; 3001 3430
+32135 .... Tulln an der Donau                     ## ST; 3430; 3425
+32139 .... Würmla                                 ## M ; 3042; 3452
+32140 .... Zeiselmauer-Wolfpassing                ##   ; 3424; 
+32141 .... Zwentendorf an der Donau               ## M ; 3435; 3454
+32142 .... St. Andrä-Wördern                      ## M ; 3423; 3413 3422
+32143 .... Muckendorf-Wipfing                     ##   ; 3426; 
+322   .. Waidhofen an der Thaya
+32202 .... Dietmanns                              ## M ; 3813; 
+32203 .... Dobersberg                             ## M ; 3843; 3844 3851
+32206 .... Gastern                                ## M ; 3852; 3842
+32207 .... Groß-Siegharts                         ## ST; 3812; 
+32209 .... Karlstein an der Thaya                 ## M ; 3822; 
+32210 .... Kautzen                                ## M ; 3851; 3852
+32212 .... Ludweis-Aigen                          ## M ; 3762; 3814
+32214 .... Pfaffenschlag bei Waidhofen a.d.Thaya  ##   ; 3834; 
+32216 .... Raabs an der Thaya                     ## ST; 3820; 2094 2095 3823 3824
+32217 .... Thaya                                  ## M ; 3842; 3830 3843
+32219 .... Vitis                                  ## M ; 3902; 3932
+32220 .... Waidhofen an der Thaya                 ## ST; 3830; 
+32221 .... Waidhofen an der Thaya-Land            ##   ; 3830; 3902
+32222 .... Waldkirchen an der Thaya               ## M ; 3844; 
+32223 .... Windigsteig                            ## M ; 3841; 3900
+323   .. Wiener Neustadt(Land)
+32301 .... Bad Fischau-Brunn                      ## M ; 2721; 2700 2752
+32302 .... Bad Schönau                            ##   ; 2853; 
+32304 .... Ebenfurth                              ## ST; 2490; 2601 2603
+32305 .... Eggendorf                              ##   ; 2492; 2493 2601 2604
+32306 .... Bad Erlach                             ## M ; 2822; 2823 2833
+32307 .... Felixdorf                              ## M ; 2603; 
+32308 .... Gutenstein                             ## M ; 2770; 
+32309 .... Hochneukirchen-Gschaidt                ## M ; 2852; 
+32310 .... Hochwolkersdorf                        ##   ; 2802; 
+32311 .... Hohe Wand                              ##   ; 2724; 2722 2723
+32312 .... Hollenthon                             ##   ; 2812; 2813 2833
+32313 .... Katzelsdorf                            ##   ; 2801; 2700
+32314 .... Kirchschlag in der Buckligen Welt      ## ST; 2860; 2812 2851 2853
+32315 .... Krumbach                               ## M ; 2851; 2852 2853 2871
+32316 .... Lanzenkirchen                          ## M ; 2821; 2700 2822 7212
+32317 .... Lichtenegg                             ##   ; 2813; 2812 2842 2851
+32318 .... Lichtenwörth                           ## M ; 2493; 2700 7202
+32319 .... Markt Piesting                         ## M ; 2753; 2721
+32320 .... Matzendorf-Hölles                      ##   ; 2751; 2603
+32321 .... Miesenbach                             ##   ; 2761; 
+32322 .... Muggendorf                             ##   ; 2763; 
+32323 .... Pernitz                                ## M ; 2763; 2761
+32324 .... Rohr im Gebirge                        ##   ; 2663; 
+32325 .... Bromberg                               ## M ; 2833; 2802 2811 2813 2822
+32326 .... Schwarzenbach                          ## M ; 2803; 2802
+32327 .... Sollenau                               ## M ; 2601; 2602
+32330 .... Theresienfeld                          ## M ; 2604; 
+32331 .... Waidmannsfeld                          ##   ; 2763; 2761
+32332 .... Waldegg                                ## M ; 2754; 2724 2753 2755 2761
+32333 .... Walpersbach                            ##   ; 2822; 2802 2821
+32334 .... Weikersdorf am Steinfelde              ##   ; 2722; 2700
+32335 .... Wiesmath                               ## M ; 2811; 2803
+32336 .... Winzendorf-Muthmannsdorf               ## M ; 2722; 2723 2731
+32337 .... Wöllersdorf-Steinabrückl               ## M ; 2752; 2751
+32338 .... Zillingdorf                            ## M ; 2492; 2491
+324   .. Wien-Umgebung
+32401 .... Ebergassing                            ##   ; 2435; 
+32402 .... Fischamend                             ## ST; 2401; 
+32403 .... Gablitz                                ## M ; 3003; 
+32404 .... Gerasdorf bei Wien                     ## ST; 2201; 
+32405 .... Gramatneusiedl                         ## M ; 2440; 2441
+32406 .... Himberg                                ## M ; 2325; 
+32407 .... Klein-Neusiedl                         ##   ; 2431; 
+32408 .... Klosterneuburg                         ## ST; 3400; 1140 1170 1190 3413 3420 3421
+32409 .... Lanzendorf                             ##   ; 2326; 
+32410 .... Leopoldsdorf                           ## M ; 2333; 
+32411 .... Maria-Lanzendorf                       ##   ; 2326; 
+32412 .... Mauerbach                              ## M ; 3001; 1140 3400
+32413 .... Moosbrunn                              ##   ; 2440; 2441
+32415 .... Pressbaum                              ## ST; 3021; 2533 3012 3013 3031 3032 3033 3443
+32416 .... Purkersdorf                            ## ST; 3002; 1140 3011 3012
+32417 .... Rauchenwarth                           ##   ; 2320; 
+32418 .... Schwadorf                              ## M ; 2432; 
+32419 .... Schwechat                              ## ST; 2320; 1300
+32421 .... Tullnerbach                            ## M ; 3013; 3004 3011 3021 3443
+32423 .... Wolfsgraben                            ##   ; 3012; 2381 3021
+32424 .... Zwölfaxing                             ##   ; 2322; 
+325   .. Zwettl
+32501 .... Allentsteig                            ## ST; 3804; 
+32502 .... Arbesbach                              ## M ; 3925; 3920
+32503 .... Bärnkopf                               ##   ; 3665; 3633
+32504 .... Echsenbach                             ## M ; 3903; 3804 3900 3902
+32505 .... Göpfritz an der Wild                   ## M ; 3800; 3811
+32506 .... Grafenschlag                           ## M ; 3912; 
+32508 .... Groß Gerungs                           ## ST; 3920; 3921 3924
+32509 .... Großgöttfritz                          ## M ; 3913; 3910
+32511 .... Gutenbrunn                             ## M ; 3665; 
+32514 .... Kirchschlag                            ## M ; 3631; 3664
+32515 .... Kottes-Purk                            ## M ; 3623; 3622
+32516 .... Langschlag                             ## M ; 3921; 3973
+32517 .... Martinsberg                            ## M ; 3664; 3665
+32518 .... Ottenschlag                            ## M ; 3631; 
+32519 .... Altmelon                               ## M ; 3925; 3633 4372
+32520 .... Pölla                                  ## M ; 3593; 3594
+32521 .... Rappottenstein                         ## M ; 3911; 3920
+32522 .... Sallingberg                            ## M ; 3525; 3524 3631 3914
+32523 .... Schönbach                              ## M ; 3633; 3632
+32524 .... Schwarzenau                            ## M ; 3900; 
+32525 .... Schweiggers                            ## M ; 3931; 3922 3923 3932
+32528 .... Bad Traunstein                         ## M ; 3632; 
+32529 .... Waldhausen                             ## M ; 3914; 3531
+32530 .... Zwettl-Niederösterreich                ## ST; 3910; 3532 3533 3911 3923 3924 3931 3932
+4     Oberösterreich
+401   .. Linz(Stadt)
+40101 .... Linz                                   ## SS; 4020; 4030 4040 4052
+402   .. Steyr(Stadt)
+40201 .... Steyr                                  ## SS; 4400; 4407
+403   .. Wels(Stadt)
+40301 .... Wels                                   ## SS; 4600; 
+404   .. Braunau am Inn
+40401 .... Altheim                                ## ST; 4950; 
+40402 .... Aspach                                 ## M ; 5252; 4931 4932 4933 5251
+40403 .... Auerbach                               ##   ; 5224; 
+40404 .... Braunau am Inn                         ## ST; 5280; 5282
+40405 .... Burgkirchen                            ##   ; 5274; 4963 5145 5261 5270 5280 5282
+40406 .... Eggelsberg                             ## M ; 5142; 
+40407 .... Feldkirchen bei Mattighofen            ##   ; 5143; 5142
+40408 .... Franking                               ##   ; 5131; 
+40409 .... Geretsberg                             ##   ; 5132; 5121 5131 5133
+40410 .... Gilgenberg am Weilhart                 ##   ; 5133; 
+40411 .... Haigermoos                             ##   ; 5120; 5121 5131
+40412 .... Handenberg                             ##   ; 5144; 5134
+40413 .... Helpfau-Uttendorf                      ## M ; 5261; 5241 5270 5271
+40414 .... Hochburg-Ach                           ##   ; 5122; 
+40415 .... Höhnhart                               ##   ; 5251; 5241 5252 5272
+40416 .... Jeging                                 ##   ; 5225; 
+40417 .... Kirchberg bei Mattighofen              ##   ; 5232; 
+40418 .... Lengau                                 ##   ; 5211; 5212
+40419 .... Lochen am See                          ##   ; 5221; 5222
+40420 .... Maria Schmolln                         ##   ; 5241; 5242 5261
+40421 .... Mattighofen                            ## ST; 5230; 
+40422 .... Mauerkirchen                           ## M ; 5270; 
+40423 .... Mining                                 ##   ; 4962; 
+40424 .... Moosbach                               ##   ; 5271; 4952 5270 5272
+40425 .... Moosdorf                               ##   ; 5141; 
+40426 .... Munderfing                             ##   ; 5222; 
+40427 .... Neukirchen an der Enknach              ##   ; 5145; 5134 5280 5282
+40428 .... Ostermiething                          ## M ; 5121; 5120
+40429 .... Palting                                ##   ; 5163; 
+40430 .... Perwang am Grabensee                   ##   ; 5166; 
+40431 .... Pfaffstätt                             ##   ; 5223; 
+40432 .... Pischelsdorf am Engelbach              ##   ; 5233; 
+40433 .... Polling im Innkreis                    ##   ; 4951; 4943
+40434 .... Roßbach                                ##   ; 5273; 5272
+40435 .... St. Georgen am Fillmannsbach           ##   ; 5144; 
+40436 .... St. Johann am Walde                    ##   ; 5242; 5241 5251
+40437 .... St. Pantaleon                          ##   ; 5120; 5121
+40438 .... St. Peter am Hart                      ##   ; 4963; 4962 5274 5280
+40439 .... St. Radegund                           ##   ; 5121; 5122
+40440 .... St. Veit im Innkreis                   ##   ; 5273; 
+40441 .... Schalchen                              ##   ; 5231; 5222 5261
+40442 .... Schwand im Innkreis                    ##   ; 5134; 
+40443 .... Tarsdorf                               ##   ; 5121; 
+40444 .... Treubach                               ##   ; 5272; 
+40445 .... Überackern                             ##   ; 5122; 5134
+40446 .... Weng im Innkreis                       ##   ; 4952; 4950 4961
+405   .. Eferding
+40501 .... Alkoven                                ##   ; 4072; 
+40502 .... Aschach an der Donau                   ## M ; 4082; 
+40503 .... Eferding                               ## ST; 4070; 
+40504 .... Fraham                                 ##   ; 4070; 4075 4612
+40505 .... Haibach ob der Donau                   ##   ; 4083; 
+40506 .... Hartkirchen                            ##   ; 4081; 4070 4074
+40507 .... Hinzenbach                             ##   ; 4070; 
+40508 .... Prambachkirchen                        ## M ; 4731; 4070 4074 4730 4732
+40509 .... Pupping                                ##   ; 4070; 4081
+40510 .... St. Marienkirchen an der Polsenz       ## M ; 4076; 4732
+40511 .... Scharten                               ##   ; 4612; 
+40512 .... Stroheim                               ##   ; 4074; 4070 4081 4730 4731
+406   .. Freistadt
+40601 .... Freistadt                              ## ST; 4240; 
+40602 .... Grünbach                               ##   ; 4264; 4261
+40603 .... Gutau                                  ## M ; 4293; 4230 4292 4294
+40604 .... Hagenberg im Mühlkreis                 ## M ; 4232; 4230
+40605 .... Hirschbach im Mühlkreis                ##   ; 4242; 4192 4193
+40606 .... Kaltenberg                             ##   ; 4273; 
+40607 .... Kefermarkt                             ## M ; 4292; 4212 4240 4291
+40608 .... Königswiesen                           ## M ; 4280; 4281 4282
+40609 .... Lasberg                                ## M ; 4291; 4240 4264 4271 4292
+40610 .... Leopoldschlag                          ## M ; 4262; 
+40611 .... Liebenau                               ## M ; 4252; 3925
+40612 .... Neumarkt im Mühlkreis                  ## M ; 4212; 4211
+40613 .... Pierbach                               ##   ; 4282; 4274 4281
+40614 .... Pregarten                              ## ST; 4230; 4224 4292
+40615 .... Rainbach im Mühlkreis                  ## M ; 4261; 4193 4240
+40616 .... Sandl                                  ##   ; 4251; 4263
+40617 .... St. Leonhard bei Freistadt             ## M ; 4294; 4272 4293
+40618 .... St. Oswald bei Freistadt               ## M ; 4271; 4251 4294
+40619 .... Schönau im Mühlkreis                   ##   ; 4274; 4293 4294
+40620 .... Tragwein                               ## M ; 4284; 4230 4293 4311
+40621 .... Unterweißenbach                        ## M ; 4273; 
+40622 .... Unterweitersdorf                       ##   ; 4210; 4212
+40623 .... Waldburg                               ##   ; 4240; 4193
+40624 .... Wartberg ob der Aist                   ## M ; 4224; 
+40625 .... Weitersfelden                          ## M ; 4272; 
+40626 .... Windhaag bei Freistadt                 ## M ; 4263; 
+40627 .... Bad Zell                               ## M ; 4283; 4274 4293
+407   .. Gmunden
+40701 .... Altmünster                             ## M ; 4813; 4801 4810 4812 4814
+40702 .... Bad Goisern am Hallstättersee          ## M ; 4822; 
+40703 .... Bad Ischl                              ## ST; 4820; 4821 5351
+40704 .... Ebensee                                ## M ; 4802; 
+40705 .... Gmunden                                ## ST; 4810; 
+40706 .... Gosau                                  ##   ; 4824; 4825
+40707 .... Grünau im Almtal                       ##   ; 4645; 4644
+40708 .... Gschwandt                              ##   ; 4816; 4664 4810 4817
+40709 .... Hallstatt                              ## M ; 4830; 4823
+40710 .... Kirchham                               ##   ; 4656; 4817
+40711 .... Laakirchen                             ## ST; 4663; 4656 4662 4664 4816
+40712 .... Obertraun                              ##   ; 4831; 8972
+40713 .... Ohlsdorf                               ##   ; 4694; 4812
+40714 .... Pinsdorf                               ##   ; 4812; 4810 4845
+40715 .... Roitham                                ##   ; 4661; 4655
+40716 .... St. Konrad                             ##   ; 4817; 4644
+40717 .... St. Wolfgang im Salzkammergut          ## M ; 5360; 
+40718 .... Traunkirchen                           ##   ; 4801; 
+40719 .... Scharnstein                            ## M ; 4644; 4645 4817
+40720 .... Vorchdorf                              ## M ; 4655; 
+408   .. Grieskirchen
+40801 .... Aistersheim                            ##   ; 4676; 
+40802 .... Bad Schallerbach                       ## M ; 4701; 
+40803 .... Bruck-Waasen                           ##   ; 4722; 
+40804 .... Eschenau im Hausruckkreis              ##   ; 4724; 4084 4085 4730
+40805 .... Gallspach                              ## M ; 4713; 
+40806 .... Gaspoltshofen                          ## M ; 4673; 4674 4676 4682 4692 4714 4902
+40807 .... Geboltskirchen                         ##   ; 4682; 
+40808 .... Grieskirchen                           ## ST; 4710; 4713
+40809 .... Haag am Hausruck                       ## M ; 4680; 
+40810 .... Heiligenberg                           ##   ; 4733; 
+40811 .... Hofkirchen an der Trattnach            ## M ; 4716; 4741
+40812 .... Kallham                                ##   ; 4720; 
+40813 .... Kematen am Innbach                     ## M ; 4633; 4632 4713
+40814 .... Meggenhofen                            ##   ; 4714; 4625 4672
+40815 .... Michaelnbach                           ##   ; 4712; 4720
+40816 .... Natternbach                            ## M ; 4723; 4762
+40817 .... Neukirchen am Walde                    ## M ; 4724; 4722 4723
+40818 .... Neumarkt im Hausruckkreis              ## M ; 4720; 
+40819 .... Peuerbach                              ## ST; 4722; 
+40820 .... Pötting                                ##   ; 4720; 
+40821 .... Pollham                                ##   ; 4710; 4732
+40822 .... Pram                                   ## M ; 4742; 
+40823 .... Rottenbach                             ##   ; 4681; 4741
+40824 .... St. Agatha                             ##   ; 4084; 4083 4730
+40825 .... St. Georgen bei Grieskirchen           ##   ; 4710; 4713 4715
+40826 .... St. Thomas                             ##   ; 4732; 
+40827 .... Schlüßlberg                            ## M ; 4707; 4632
+40828 .... Steegen                                ##   ; 4722; 
+40829 .... Taufkirchen an der Trattnach           ## M ; 4715; 
+40830 .... Tollet                                 ##   ; 4710; 4712 4715
+40831 .... Waizenkirchen                          ## M ; 4730; 4712 4731
+40832 .... Wallern an der Trattnach               ## M ; 4702; 4611 4631 4701
+40833 .... Weibern                                ##   ; 4675; 4680
+40834 .... Wendling                               ##   ; 4741; 4720
+409   .. Kirchdorf an der Krems
+40901 .... Edlbach                                ##   ; 4580; 4581 4582
+40902 .... Grünburg                               ##   ; 4594; 4592 4593
+40903 .... Hinterstoder                           ##   ; 4573; 4572 4574
+40904 .... Inzersdorf im Kremstal                 ##   ; 4565; 
+40905 .... Kirchdorf an der Krems                 ## ST; 4560; 4563
+40906 .... Klaus an der Pyhrnbahn                 ##   ; 4564; 4571 4572
+40907 .... Kremsmünster                           ## M ; 4550; 4532 4540 4621
+40908 .... Micheldorf in Oberösterreich           ## M ; 4563; 
+40909 .... Molln                                  ## M ; 4591; 
+40910 .... Nußbach                                ##   ; 4542; 
+40911 .... Oberschlierbach                        ##   ; 4554; 
+40912 .... Pettenbach                             ## M ; 4643; 
+40913 .... Ried im Traunkreis                     ##   ; 4551; 4643
+40914 .... Rosenau am Hengstpaß                   ##   ; 4581; 4580 4591
+40915 .... Roßleithen                             ##   ; 4575; 
+40916 .... St. Pankraz                            ##   ; 4572; 
+40917 .... Schlierbach                            ##   ; 4553; 
+40918 .... Spital am Pyhrn                        ##   ; 4582; 
+40919 .... Steinbach am Ziehberg                  ##   ; 4562; 4643
+40920 .... Steinbach an der Steyr                 ##   ; 4596; 4421
+40921 .... Vorderstoder                           ##   ; 4574; 4573 4575
+40922 .... Wartberg an der Krems                  ## M ; 4552; 
+40923 .... Windischgarsten                        ## M ; 4580; 
+410   .. Linz-Land
+41001 .... Allhaming                              ##   ; 4511; 4501 4622
+41002 .... Ansfelden                              ## ST; 4053; 4052
+41003 .... Asten                                  ## M ; 4481; 
+41004 .... Eggendorf im Traunkreis                ##   ; 4622; 4616
+41005 .... Enns                                   ## ST; 4470; 
+41006 .... Hargelsberg                            ##   ; 4483; 
+41007 .... Hörsching                              ## M ; 4063; 
+41008 .... Hofkirchen im Traunkreis               ##   ; 4492; 4491
+41009 .... Kematen an der Krems                   ##   ; 4531; 4532 4550
+41010 .... Kirchberg-Thening                      ##   ; 4062; 
+41011 .... Kronstorf                              ## M ; 4484; 4470 4483
+41012 .... Leonding                               ## ST; 4060; 4020 4061
+41013 .... St. Florian                            ## M ; 4490; 
+41014 .... Neuhofen an der Krems                  ## M ; 4501; 4053 4511 4531
+41015 .... Niederneukirchen                       ##   ; 4491; 
+41016 .... Oftering                               ##   ; 4064; 
+41017 .... Pasching                               ##   ; 4061; 
+41018 .... Piberbach                              ##   ; 4533; 
+41019 .... Pucking                                ## M ; 4055; 
+41020 .... St. Marien                             ##   ; 4502; 4491 4521
+41021 .... Traun                                  ## ST; 4050; 4063
+41022 .... Wilhering                              ## M ; 4073; 4060 4061
+411   .. Perg
+41101 .... Allerheiligen im Mühlkreis             ##   ; 4320; 4284
+41102 .... Arbing                                 ##   ; 4341; 4323 4342
+41103 .... Baumgartenberg                         ## M ; 4342; 4341 4351
+41104 .... Dimbach                                ## M ; 4371; 
+41105 .... Grein                                  ## ST; 4360; 4381
+41106 .... Katsdorf                               ##   ; 4223; 4224 4312
+41107 .... Klam                                   ## M ; 4352; 
+41108 .... Bad Kreuzen                            ## M ; 4362; 4323 4352 4360 4363
+41109 .... Langenstein                            ##   ; 4222; 4310 4312
+41110 .... Luftenberg an der Donau                ## M ; 4225; 4481
+41111 .... Mauthausen                             ## M ; 4310; 4312
+41112 .... Mitterkirchen im Machland              ## M ; 4343; 
+41113 .... Münzbach                               ## M ; 4323; 4342 4352
+41114 .... Naarn im Machlande                     ## M ; 4331; 4311 4320 4332
+41115 .... Pabneukirchen                          ## M ; 4363; 4281 4362 4371 4372
+41116 .... Perg                                   ## ST; 4320; 
+41117 .... Rechberg                               ##   ; 4324; 
+41118 .... Ried in der Riedmark                   ## M ; 4312; 4311
+41119 .... St. Georgen am Walde                   ## M ; 4372; 4371
+41120 .... St. Georgen an der Gusen               ## M ; 4222; 4223
+41121 .... St. Nikola an der Donau                ## M ; 4381; 4382
+41122 .... St. Thomas am Blasenstein              ## M ; 4364; 4282 4322 4362 4363
+41123 .... Saxen                                  ## M ; 4351; 4352
+41124 .... Schwertberg                            ## M ; 4311; 4312
+41125 .... Waldhausen im Strudengau               ## M ; 4391; 4360 4382 4392
+41126 .... Windhaag bei Perg                      ##   ; 4322; 4320 4323
+412   .. Ried im Innkreis
+41201 .... Andrichsfurt                           ##   ; 4754; 4971 4972
+41202 .... Antiesenhofen                          ##   ; 4980; 
+41203 .... Aurolzmünster                          ## M ; 4971; 4910 4972 4973
+41204 .... Eberschwang                            ## M ; 4906; 
+41205 .... Eitzing                                ##   ; 4970; 
+41206 .... Geiersberg                             ##   ; 4922; 4680
+41207 .... Geinberg                               ##   ; 4943; 4951
+41208 .... Gurten                                 ##   ; 4942; 4943
+41209 .... Hohenzell                              ##   ; 4921; 
+41210 .... Kirchdorf am Inn                       ##   ; 4982; 4943
+41211 .... Kirchheim im Innkreis                  ##   ; 4932; 
+41212 .... Lambrechten                            ##   ; 4772; 4752 4753 4974
+41213 .... Lohnsburg am Kobernaußerwald           ## M ; 4923; 
+41214 .... Mehrnbach                              ##   ; 4941; 4910 4971
+41215 .... Mettmach                               ## M ; 4931; 
+41216 .... Mörschwang                             ##   ; 4982; 4973 4984
+41217 .... Mühlheim am Inn                        ##   ; 4961; 
+41218 .... Neuhofen im Innkreis                   ##   ; 4912; 
+41219 .... Obernberg am Inn                       ## M ; 4982; 
+41220 .... Ort im Innkreis                        ##   ; 4974; 
+41221 .... Pattigham                              ##   ; 4910; 4925
+41222 .... Peterskirchen                          ##   ; 4743; 4754
+41223 .... Pramet                                 ##   ; 4925; 
+41224 .... Reichersberg                           ## M ; 4981; 4973 4974 4980
+41225 .... Ried im Innkreis                       ## ST; 4910; 4941
+41226 .... St. Georgen bei Obernberg am Inn       ##   ; 4983; 4943
+41227 .... St. Marienkirchen am Hausruck          ##   ; 4926; 
+41228 .... St. Martin im Innkreis                 ## M ; 4973; 
+41229 .... Schildorn                              ##   ; 4920; 
+41230 .... Senftenbach                            ##   ; 4973; 
+41231 .... Taiskirchen im Innkreis                ## M ; 4753; 4751
+41232 .... Tumeltsham                             ##   ; 4911; 
+41233 .... Utzenaich                              ##   ; 4972; 4754 4772 4971 4973
+41234 .... Waldzell                               ##   ; 4924; 
+41235 .... Weilbach                               ##   ; 4984; 
+41236 .... Wippenham                              ##   ; 4942; 
+413   .. Rohrbach
+41301 .... Afiesl                                 ##   ; 4184; 4170
+41302 .... Ahorn                                  ##   ; 4184; 4182 4183
+41303 .... Aigen im Mühlkreis                     ## M ; 4160; 4161
+41304 .... Altenfelden                            ## M ; 4121; 4120
+41305 .... Arnreit                                ##   ; 4122; 4121
+41306 .... Atzesberg                              ##   ; 4152; 4134
+41307 .... Auberg                                 ##   ; 4171; 4170
+41308 .... Berg bei Rohrbach                      ##   ; 4150; 4170
+41309 .... Haslach an der Mühl                    ## M ; 4170; 
+41310 .... Helfenberg                             ##   ; 4184; 
+41311 .... Hörbich                                ##   ; 4132; 4121 4134 4152
+41312 .... Hofkirchen im Mühlkreis                ## M ; 4142; 4085 4133
+41313 .... Julbach                                ##   ; 4162; 4153 4155
+41314 .... Kirchberg ob der Donau                 ##   ; 4131; 4114
+41315 .... Klaffer am Hochficht                   ##   ; 4163; 4161 4164
+41316 .... Kleinzell im Mühlkreis                 ##   ; 4115; 4114 4120
+41317 .... Kollerschlag                           ## M ; 4154; 4152
+41318 .... Lembach im Mühlkreis                   ## M ; 4132; 4131
+41319 .... Lichtenau im Mühlkreis                 ##   ; 4170; 
+41320 .... Nebelberg                              ##   ; 4155; 
+41321 .... Neufelden                              ## M ; 4120; 4121
+41322 .... Niederkappel                           ##   ; 4133; 4131 4132
+41323 .... Niederwaldkirchen                      ## M ; 4174; 4113 4120 4172 4173 4175
+41324 .... Oberkappel                             ## M ; 4144; 4152 4154
+41325 .... Oepping                                ##   ; 4151; 
+41326 .... Peilstein im Mühlviertel               ## M ; 4153; 4162
+41327 .... Pfarrkirchen im Mühlkreis              ##   ; 4141; 4085 4142 4144
+41328 .... Putzleinsdorf                          ## M ; 4134; 4132 4133 4141
+41329 .... Neustift im Mühlkreis                  ##   ; 4143; 4085 4144
+41330 .... Rohrbach in Oberösterreich             ## ST; 4150; 
+41331 .... St. Johann am Wimberg                  ##   ; 4172; 4184
+41332 .... St. Martin im Mühlkreis                ## M ; 4113; 4114
+41333 .... St. Oswald bei Haslach                 ##   ; 4170; 
+41334 .... St. Peter am Wimberg                   ## M ; 4171; 4170 4184
+41335 .... St. Stefan am Walde                    ##   ; 4170; 4171 4184
+41336 .... St. Ulrich im Mühlkreis                ##   ; 4116; 
+41337 .... St. Veit im Mühlkreis                  ##   ; 4173; 4172 4174 4175
+41338 .... Sarleinsbach                           ## M ; 4152; 4150
+41339 .... Schlägl                                ##   ; 4160; 
+41340 .... Schönegg                               ##   ; 4184; 4191
+41341 .... Schwarzenberg am Böhmerwald            ##   ; 4164; 4161 4163
+41342 .... Ulrichsberg                            ## M ; 4161; 4160 4162 4163
+414   .. Schärding
+41401 .... Altschwendt                            ##   ; 4721; 4755
+41402 .... Andorf                                 ## M ; 4770; 4772
+41403 .... Brunnenthal                            ##   ; 4786; 
+41404 .... Diersbach                              ##   ; 4776; 
+41405 .... Dorf an der Pram                       ##   ; 4751; 
+41406 .... Eggerding                              ##   ; 4773; 4775 4980
+41407 .... Engelhartszell                         ## M ; 4090; 4725
+41408 .... Enzenkirchen                           ##   ; 4761; 4762 4771 4794
+41409 .... Esternberg                             ##   ; 4092; 
+41410 .... Freinberg                              ##   ; 4785; 4784
+41411 .... Kopfing im Innkreis                    ## M ; 4794; 4723 4725 4793
+41412 .... Mayrhof                                ##   ; 4777; 
+41413 .... Münzkirchen                            ## M ; 4792; 
+41414 .... Raab                                   ## M ; 4760; 
+41415 .... Rainbach im Innkreis                   ##   ; 4791; 4775 4776
+41416 .... Riedau                                 ## M ; 4752; 4751
+41417 .... St. Aegidi                             ##   ; 4725; 4794
+41418 .... St. Florian am Inn                     ## M ; 4782; 
+41419 .... St. Marienkirchen bei Schärding        ##   ; 4774; 4773
+41420 .... St. Roman                              ##   ; 4793; 4091 4725 4792
+41421 .... St. Willibald                          ##   ; 4762; 4760
+41422 .... Schärding                              ## ST; 4780; 
+41423 .... Schardenberg                           ## M ; 4784; 4783 4785 4791 4792
+41424 .... Sigharting                             ##   ; 4771; 
+41425 .... Suben                                  ##   ; 4975; 
+41426 .... Taufkirchen an der Pram                ## M ; 4775; 4774 4791
+41427 .... Vichtenstein                           ##   ; 4091; 
+41428 .... Waldkirchen am Wesen                   ##   ; 4085; 4724
+41429 .... Wernstein am Inn                       ##   ; 4783; 4784
+41430 .... Zell an der Pram                       ##   ; 4755; 
+415   .. Steyr-Land
+41501 .... Adlwang                                ##   ; 4541; 
+41502 .... Aschach an der Steyr                   ##   ; 4421; 4523 4594
+41503 .... Bad Hall                               ## ST; 4540; 4522
+41504 .... Dietach                                ##   ; 4407; 4484
+41505 .... Gaflenz                                ## M ; 3334; 3335
+41506 .... Garsten                                ## M ; 4451; 4400 4461 4523
+41507 .... Großraming                             ##   ; 4463; 4443
+41508 .... Laussa                                 ##   ; 4461; 4460 4463
+41509 .... Losenstein                             ##   ; 4460; 
+41510 .... Maria Neustift                         ##   ; 4443; 4442 4463
+41511 .... Pfarrkirchen bei Bad Hall              ##   ; 4540; 4552
+41512 .... Reichraming                            ##   ; 4462; 
+41513 .... Rohr im Kremstal                       ##   ; 4532; 4531 4540 4550
+41514 .... St. Ulrich bei Steyr                   ##   ; 4400; 4442 4443 4451
+41515 .... Schiedlberg                            ##   ; 4521; 4493 4522
+41516 .... Sierning                               ## M ; 4522; 4523 4531
+41517 .... Ternberg                               ## M ; 4452; 4451 4453 4596
+41518 .... Waldneukirchen                         ##   ; 4595; 
+41521 .... Wolfern                                ## M ; 4493; 
+41522 .... Weyer                                  ## M ; 3335; 4464 8934
+416   .. Urfahr-Umgebung
+41601 .... Alberndorf in der Riedmark             ##   ; 4211; 4202 4210
+41602 .... Altenberg bei Linz                     ## M ; 4203; 4040 4202 4210
+41603 .... Bad Leonfelden                         ## ST; 4190; 
+41604 .... Eidenberg                              ##   ; 4201; 4202
+41605 .... Engerwitzdorf                          ##   ; 4209; 4222
+41606 .... Feldkirchen an der Donau               ## M ; 4101; 4113
+41607 .... Gallneukirchen                         ## ST; 4210; 
+41608 .... Goldwörth                              ##   ; 4102; 
+41609 .... Gramastetten                           ## M ; 4201; 4040 4100 4111 4112
+41610 .... Haibach im Mühlkreis                   ##   ; 4204; 
+41611 .... Hellmonsödt                            ## M ; 4202; 
+41612 .... Herzogsdorf                            ## M ; 4175; 4101 4181
+41613 .... Kirchschlag bei Linz                   ##   ; 4202; 4040 4201
+41614 .... Lichtenberg                            ##   ; 4040; 4201
+41615 .... Oberneukirchen                         ## M ; 4181; 4182 4183
+41616 .... Ottenschlag im Mühlkreis               ##   ; 4204; 
+41617 .... Ottensheim                             ## M ; 4100; 
+41618 .... Puchenau                               ##   ; 4048; 
+41619 .... Reichenau im Mühlkreis                 ## M ; 4204; 4180
+41620 .... Reichenthal                            ## M ; 4193; 4240
+41621 .... St. Gotthard im Mühlkreis              ##   ; 4112; 
+41622 .... Schenkenfelden                         ## M ; 4192; 
+41623 .... Sonnberg im Mühlkreis                  ##   ; 4180; 4202
+41624 .... Steyregg                               ## ST; 4221; 4040
+41625 .... Vorderweißenbach                       ## M ; 4191; 4183 4184 4190
+41626 .... Walding                                ## M ; 4111; 
+41627 .... Zwettl an der Rodl                     ## M ; 4180; 4181 4201
+417   .. Vöcklabruck
+41701 .... Ampflwang im Hausruckwald              ## M ; 4843; 
+41702 .... Attersee am Attersee                   ##   ; 4864; 
+41703 .... Attnang-Puchheim                       ## ST; 4800; 
+41704 .... Atzbach                                ##   ; 4904; 
+41705 .... Aurach am Hongar                       ##   ; 4861; 4814 4844
+41706 .... Berg im Attergau                       ##   ; 4880; 4863
+41707 .... Desselbrunn                            ##   ; 4693; 4800
+41708 .... Fornach                                ##   ; 4892; 4890
+41709 .... Frankenburg am Hausruck                ## M ; 4873; 4871
+41710 .... Frankenmarkt                           ## M ; 4890; 4891
+41711 .... Gampern                                ##   ; 4851; 4871
+41712 .... Innerschwand am Mondsee                ##   ; 5310; 4866 5311
+41713 .... Lenzing                                ## M ; 4860; 
+41714 .... Manning                                ##   ; 4903; 
+41715 .... Mondsee                                ## M ; 5310; 
+41716 .... Neukirchen an der Vöckla               ##   ; 4872; 4850 4871 4873
+41717 .... Niederthalheim                         ##   ; 4692; 4690 4691 4902
+41718 .... Nußdorf am Attersee                    ##   ; 4865; 
+41719 .... Oberhofen am Irrsee                    ##   ; 4894; 4893
+41720 .... Oberndorf bei Schwanenstadt            ##   ; 4690; 
+41721 .... Oberwang                               ##   ; 4882; 
+41722 .... Ottnang am Hausruck                    ## M ; 4901; 
+41723 .... Pfaffing                               ##   ; 4870; 4871 4892
+41724 .... Pilsbach                               ##   ; 4840; 4800 4841
+41725 .... Pitzenberg                             ##   ; 4690; 
+41726 .... Pöndorf                                ##   ; 4891; 5212
+41727 .... Puchkirchen am Trattberg               ##   ; 4849; 
+41728 .... Pühret                                 ##   ; 4690; 4800 4846
+41729 .... Redleiten                              ##   ; 4873; 
+41730 .... Redlham                                ##   ; 4846; 
+41731 .... Regau                                  ## M ; 4844; 4800 4812 4845 4860
+41732 .... Rüstorf                                ##   ; 4690; 4693
+41733 .... Rutzenham                              ##   ; 4690; 
+41734 .... St. Georgen im Attergau                ## M ; 4880; 
+41735 .... St. Lorenz                             ##   ; 5310; 
+41736 .... Schlatt                                ##   ; 4690; 4691
+41737 .... Schörfling am Attersee                 ## M ; 4861; 
+41738 .... Schwanenstadt                          ## ST; 4690; 
+41739 .... Seewalchen am Attersee                 ## M ; 4863; 4851 4880
+41740 .... Steinbach am Attersee                  ##   ; 4853; 
+41741 .... Straß im Attergau                      ##   ; 4881; 
+41742 .... Tiefgraben                             ##   ; 5310; 4893
+41743 .... Timelkam                               ## M ; 4850; 4841 4860
+41744 .... Ungenach                               ##   ; 4841; 4850
+41745 .... Unterach am Attersee                   ##   ; 4866; 
+41746 .... Vöcklabruck                            ## ST; 4840; 4841 4850
+41747 .... Vöcklamarkt                            ## M ; 4870; 4871 4890
+41748 .... Weißenkirchen im Attergau              ##   ; 4890; 5204
+41749 .... Weyregg am Attersee                    ##   ; 4852; 4861
+41750 .... Wolfsegg am Hausruck                   ## M ; 4902; 4904
+41751 .... Zell am Moos                           ##   ; 4893; 
+41752 .... Zell am Pettenfirst                    ##   ; 4842; 
+418   .. Wels-Land
+41801 .... Aichkirchen                            ##   ; 4671; 
+41802 .... Bachmanning                            ##   ; 4672; 
+41803 .... Bad Wimsbach-Neydharting               ## M ; 4654; 
+41804 .... Buchkirchen                            ## M ; 4611; 4612 4613 4631
+41805 .... Eberstalzell                           ##   ; 4653; 
+41806 .... Edt bei Lambach                        ##   ; 4650; 
+41807 .... Fischlham                              ##   ; 4652; 4641
+41808 .... Gunskirchen                            ## M ; 4623; 4600 4650
+41809 .... Holzhausen                             ##   ; 4615; 
+41810 .... Krenglbach                             ##   ; 4631; 4702
+41811 .... Lambach                                ## M ; 4650; 
+41812 .... Marchtrenk                             ## ST; 4614; 
+41813 .... Neukirchen bei Lambach                 ##   ; 4671; 
+41814 .... Offenhausen                            ## M ; 4625; 4624 4714
+41815 .... Pennewang                              ##   ; 4624; 4625 4672
+41816 .... Pichl bei Wels                         ## M ; 4632; 4631 4633 4701 4702
+41817 .... Sattledt                               ## M ; 4642; 
+41818 .... Schleißheim                            ##   ; 4600; 
+41819 .... Sipbachzell                            ##   ; 4621; 
+41820 .... Stadl-Paura                            ## M ; 4651; 
+41821 .... Steinerkirchen an der Traun            ## M ; 4652; 4655
+41822 .... Steinhaus                              ##   ; 4641; 
+41823 .... Thalheim bei Wels                      ## M ; 4600; 
+41824 .... Weißkirchen an der Traun               ##   ; 4616; 
+5     Salzburg
+501   .. Salzburg(Stadt)
+50101 .... Salzburg                               ## SS; 5020; 5023 5026 5061 5071 5081 5082
+502   .. Hallein
+50201 .... Abtenau                                ## M ; 5441; 5442 5524
+50202 .... Adnet                                  ##   ; 5421; 5323 5424
+50203 .... Annaberg-Lungötz                       ##   ; 5524; 5523
+50204 .... Golling an der Salzach                 ## M ; 5440; 
+50205 .... Hallein                                ## ST; 5400; 5083 5422
+50206 .... Krispl                                 ##   ; 5425; 
+50207 .... Kuchl                                  ## M ; 5431; 5424
+50208 .... Oberalm                                ## M ; 5411; 5400
+50209 .... Puch bei Hallein                       ##   ; 5412; 5061 5411
+50210 .... Rußbach am Paß Gschütt                 ##   ; 5442; 
+50211 .... Sankt Koloman                          ##   ; 5423; 
+50212 .... Scheffau am Tennengebirge              ##   ; 5440; 5441
+50213 .... Bad Vigaun                             ##   ; 5424; 
+503   .. Salzburg-Umgebung
+50301 .... Anif                                   ##   ; 5081; 
+50302 .... Anthering                              ##   ; 5102; 
+50303 .... Bergheim                               ##   ; 5101; 
+50304 .... Berndorf bei Salzburg                  ##   ; 5165; 
+50305 .... Bürmoos                                ##   ; 5111; 
+50306 .... Dorfbeuern                             ##   ; 5152; 
+50307 .... Ebenau                                 ##   ; 5323; 
+50308 .... Elixhausen                             ##   ; 5161; 
+50309 .... Elsbethen                              ##   ; 5061; 5026 5412
+50310 .... Eugendorf                              ## M ; 5301; 5302
+50311 .... Faistenau                              ##   ; 5324; 
+50312 .... Fuschl am See                          ##   ; 5330; 
+50313 .... Göming                                 ##   ; 5114; 
+50314 .... Grödig                                 ## M ; 5082; 5083
+50315 .... Großgmain                              ##   ; 5084; 
+50316 .... Hallwang                               ##   ; 5300; 
+50317 .... Henndorf am Wallersee                  ##   ; 5302; 
+50318 .... Hintersee                              ##   ; 5324; 
+50319 .... Hof bei Salzburg                       ##   ; 5322; 
+50320 .... Köstendorf                             ##   ; 5203; 
+50321 .... Koppl                                  ##   ; 5321; 5023
+50322 .... Lamprechtshausen                       ##   ; 5112; 5110
+50323 .... Mattsee                                ## M ; 5163; 
+50324 .... Neumarkt am Wallersee                  ## ST; 5202; 
+50325 .... Nußdorf am Haunsberg                   ##   ; 5151; 5162 5165
+50326 .... Oberndorf bei Salzburg                 ## ST; 5110; 
+50327 .... Obertrum am See                        ## M ; 5162; 
+50328 .... Plainfeld                              ##   ; 5325; 
+50329 .... Sankt Georgen bei Salzburg             ##   ; 5113; 
+50330 .... Sankt Gilgen                           ##   ; 5340; 4854 4866 5310 5342 5360
+50331 .... Schleedorf                             ##   ; 5205; 
+50332 .... Seeham                                 ##   ; 5164; 
+50335 .... Straßwalchen                           ## M ; 5204; 
+50336 .... Strobl                                 ##   ; 5350; 5342 5351
+50337 .... Thalgau                                ## M ; 5303; 
+50338 .... Wals-Siezenheim                        ##   ; 5071; 
+50339 .... Seekirchen am Wallersee                ## ST; 5201; 5162
+504   .. Sankt Johann im Pongau
+50401 .... Altenmarkt im Pongau                   ## M ; 5541; 
+50402 .... Bad Hofgastein                         ## M ; 5630; 
+50403 .... Bad Gastein                            ##   ; 5640; 5645
+50404 .... Bischofshofen                          ## ST; 5500; 
+50405 .... Dorfgastein                            ##   ; 5632; 
+50406 .... Eben im Pongau                         ##   ; 5531; 
+50407 .... Filzmoos                               ##   ; 5532; 
+50408 .... Flachau                                ##   ; 5542; 
+50409 .... Forstau                                ##   ; 5552; 
+50410 .... Goldegg                                ##   ; 5622; 5620 5621 5651
+50411 .... Großarl                                ## M ; 5611; 
+50412 .... Hüttau                                 ##   ; 5511; 5521
+50413 .... Hüttschlag                             ##   ; 5612; 
+50414 .... Kleinarl                               ##   ; 5603; 
+50415 .... Mühlbach am Hochkönig                  ##   ; 5505; 
+50416 .... Pfarrwerfen                            ##   ; 5452; 5450 5500
+50417 .... Radstadt                               ## ST; 5550; 8974
+50418 .... Sankt Johann im Pongau                 ## ST; 5600; 5602
+50419 .... Sankt Martin am Tennengebirge          ##   ; 5522; 5523
+50420 .... Sankt Veit im Pongau                   ## M ; 5621; 
+50421 .... Schwarzach im Pongau                   ## M ; 5620; 5622
+50422 .... Untertauern                            ##   ; 5561; 5562
+50423 .... Wagrain                                ## M ; 5602; 
+50424 .... Werfen                                 ## M ; 5450; 5451 5452 5505
+50425 .... Werfenweng                             ##   ; 5453; 
+505   .. Tamsweg
+50501 .... Göriach                                ##   ; 5574; 
+50502 .... Lessach                                ##   ; 5575; 
+50503 .... Mariapfarr                             ##   ; 5571; 
+50504 .... Mauterndorf                            ## M ; 5570; 
+50505 .... Muhr                                   ##   ; 5583; 
+50506 .... Ramingstein                            ##   ; 5591; 8863
+50507 .... Sankt Andrä im Lungau                  ##   ; 5572; 
+50508 .... Sankt Margarethen im Lungau            ##   ; 5581; 
+50509 .... Sankt Michael im Lungau                ## M ; 5582; 
+50510 .... Tamsweg                                ## M ; 5580; 
+50511 .... Thomatal                               ##   ; 5592; 
+50512 .... Tweng                                  ##   ; 5563; 5562
+50513 .... Unternberg                             ##   ; 5585; 
+50514 .... Weißpriach                             ##   ; 5573; 
+50515 .... Zederhaus                              ##   ; 5584; 
+506   .. Zell am See
+50601 .... Bramberg am Wildkogel                  ##   ; 5733; 5731 5732 5741
+50602 .... Bruck an der Großglocknerstraße        ##   ; 5671; 5662
+50603 .... Dienten am Hochkönig                   ##   ; 5652; 
+50604 .... Fusch an der Großglocknerstraße        ##   ; 5672; 
+50605 .... Hollersbach im Pinzgau                 ##   ; 5731; 
+50606 .... Kaprun                                 ##   ; 5710; 
+50607 .... Krimml                                 ##   ; 5743; 
+50608 .... Lend                                   ##   ; 5651; 5660
+50609 .... Leogang                                ##   ; 5771; 5760
+50610 .... Lofer                                  ## M ; 5090; 
+50611 .... Maishofen                              ##   ; 5751; 
+50612 .... Maria Alm am Steinernen Meer           ##   ; 5761; 
+50613 .... Mittersill                             ## ST; 5730; 5731
+50614 .... Neukirchen am Großvenediger            ## M ; 5741; 
+50615 .... Niedernsill                            ##   ; 5722; 
+50616 .... Piesendorf                             ##   ; 5721; 
+50617 .... Rauris                                 ## M ; 5661; 
+50618 .... Saalbach-Hinterglemm                   ##   ; 5753; 5754
+50619 .... Saalfelden am Steinernen Meer          ## ST; 5760; 
+50620 .... Sankt Martin bei Lofer                 ##   ; 5092; 
+50621 .... Stuhlfelden                            ##   ; 5724; 
+50622 .... Taxenbach                              ## M ; 5660; 5651 5662
+50623 .... Unken                                  ##   ; 5091; 
+50624 .... Uttendorf                              ##   ; 5723; 
+50625 .... Viehhofen                              ##   ; 5752; 
+50626 .... Wald im Pinzgau                        ##   ; 5742; 
+50627 .... Weißbach bei Lofer                     ##   ; 5093; 
+50628 .... Zell am See                            ## ST; 5700; 
+6     Steiermark
+601   .. Graz(Stadt)
+60101 .... Graz                                   ## SS; 8010; 8020 8036 8041 8042 8043 8044 8045 8046 8047 8051 8052 8053 8054 8055 8073 8074
+603   .. Deutschlandsberg
+60305 .... Frauental an der Laßnitz               ## M ; 8523; 8530
+60318 .... Lannach                                ## M ; 8502; 8503 8511
+60323 .... Pölfing-Brunn                          ## M ; 8544; 8551
+60324 .... Preding                                ## M ; 8504; 8503
+60326 .... Sankt Josef (Weststeiermark)           ##   ; 8503; 8143
+60329 .... Sankt Peter im Sulmtal                 ##   ; 8542; 8541
+60341 .... Wettmannstätten                        ## M ; 8521; 8444 8504
+60344 .... Deutschlandsberg                       ## ST; 8530; 8510 8523 8524
+60345 .... Eibiswald                              ## M ; 8552; 8455 8551 8553 8554
+60346 .... Groß Sankt Florian                     ## M ; 8522; 8444 8521
+60347 .... Sankt Martin im Sulmtal                ##   ; 8543; 8443 8522 8542 8544 8551
+60348 .... Sankt Stefan ob Stainz                 ##   ; 8511; 8510 8562 8563
+60349 .... Schwanberg                             ## M ; 8541; 8530 8542
+60350 .... Stainz                                 ## M ; 8510; 8503 8504 8511 8522 8524
+60351 .... Wies                                   ## M ; 8551; 8541 8542 8552 8553
+606   .. Graz-Umgebung
+60608 .... Feldkirchen bei Graz                   ## M ; 8073; 8401
+60611 .... Gössendorf                             ## M ; 8077; 
+60613 .... Gratkorn                               ## M ; 8101; 8046 8102 8114
+60617 .... Hart bei Graz                          ##   ; 8075; 8047 8301
+60618 .... Haselsdorf-Tobelbad                    ##   ; 8144; 8151
+60619 .... Hausmannstätten                        ## M ; 8071; 
+60623 .... Kainbach bei Graz                      ##   ; 8010; 8044 8047 8063 8301
+60624 .... Kalsdorf bei Graz                      ## M ; 8401; 
+60626 .... Kumberg                                ## M ; 8062; 8044 8061 8063 8160 8181
+60628 .... Laßnitzhöhe                            ## M ; 8301; 8075 8302
+60629 .... Lieboch                                ## M ; 8501; 8144
+60632 .... Peggau                                 ## M ; 8120; 8114 8130
+60639 .... Sankt Bartholomä                       ##   ; 8113; 8151
+60641 .... Sankt Oswald bei Plankenwarth          ##   ; 8113; 8111 8112
+60642 .... Sankt Radegund bei Graz                ##   ; 8061; 
+60645 .... Semriach                               ## M ; 8102; 8163
+60646 .... Stattegg                               ##   ; 8046; 8045
+60647 .... Stiwoll                                ##   ; 8113; 
+60648 .... Thal                                   ## M ; 8051; 8052 8113 8151
+60651 .... Übelbach                               ## M ; 8124; 8122 8153
+60653 .... Vasoldsberg                            ## M ; 8076; 8081
+60654 .... Weinitzen                              ##   ; 8044; 8045 8061 8062
+60655 .... Werndorf                               ##   ; 8402; 
+60656 .... Wundschuh                              ##   ; 8142; 
+60659 .... Deutschfeistritz                       ## M ; 8121; 8103 8114 8122 8124
+60660 .... Dobl-Zwaring                           ## M ; 8143; 8141 8142 8410 8411 8503 8504
+60661 .... Eggersdorf bei Graz                    ## M ; 8063; 8010 8044 8062 8200 8301 8302
+60662 .... Fernitz-Mellach                        ##   ; 8072; 8410
+60663 .... Frohnleiten                            ## ST; 8130; 8121 8122 8131
+60664 .... Gratwein-Straßengel                    ## M ; 8111; 8103 8112 8113 8114 8153
+60665 .... Hitzendorf                             ## M ; 8151; 8052 8054 8113 8144 8152 8561
+60666 .... Nestelbach bei Graz                    ##   ; 8302; 8063 8200 8301 8323
+60667 .... Raaba-Grambach                         ## M ; 8074; 8071 8302
+60668 .... Sankt Marein bei Graz                  ## M ; 8323; 8081 8082 8302 8322 8324
+60669 .... Seiersberg-Pirka                       ##   ; 8054; 8055 8073 8144
+60670 .... Unterpremstätten-Zettling              ## M ; 8141; 8054 8143 8144 8401
+610   .. Leibnitz
+61001 .... Allerheiligen bei Wildon               ##   ; 8412; 8081 8410 8413
+61002 .... Arnfels                                ## M ; 8454; 
+61007 .... Empersdorf                             ##   ; 8081; 8302
+61008 .... Gabersdorf                             ##   ; 8424; 
+61012 .... Gralla                                 ##   ; 8431; 
+61013 .... Großklein                              ## M ; 8452; 8441 8443 8451 8453 8462 8463
+61016 .... Heimschuh                              ##   ; 8451; 8430 8452
+61017 .... Hengsberg                              ##   ; 8411; 8403 8504
+61019 .... Kitzeck im Sausal                      ##   ; 8442; 8441 8451
+61020 .... Lang                                   ##   ; 8403; 
+61021 .... Lebring-Sankt Margarethen              ## M ; 8403; 8430
+61024 .... Oberhaag                               ##   ; 8455; 8443 8453 8454 8544
+61027 .... Ragnitz                                ##   ; 8413; 8403
+61030 .... Sankt Andrä-Höch                       ##   ; 8444; 8441 8442 8443 8505 8521 8522
+61032 .... Sankt Johann im Saggautal              ##   ; 8453; 8443 8452 8454 8544
+61033 .... Sankt Nikolai im Sausal                ## M ; 8505; 8411 8504 8521
+61043 .... Tillmitsch                             ##   ; 8430; 8451
+61045 .... Wagna                                  ## M ; 8435; 8430
+61049 .... Ehrenhausen an der Weinstraße          ## M ; 8461; 
+61050 .... Gamlitz                                ## M ; 8462; 8451 8461 8463
+61051 .... Gleinstätten                           ## M ; 8443; 8444 8452
+61052 .... Heiligenkreuz am Waasen                ## M ; 8081; 8072 8412
+61053 .... Leibnitz                               ## ST; 8430; 8451 8462
+61054 .... Leutschach an der Weinstraße           ## M ; 8463; 8452 8453 8454 8462
+61055 .... Sankt Georgen an der Stiefing          ## M ; 8413; 8410
+61056 .... Sankt Veit in der Südsteiermark        ## M ; 8423; 8421 8422 8435 8481
+61057 .... Schwarzautal                           ## M ; 8421; 8413 8422
+61058 .... Straß-Spielfeld                        ## M ; 8472; 8423 8461 8471
+61059 .... Wildon                                 ## M ; 8410; 8412
+611   .. Leoben
+61101 .... Eisenerz                               ## ST; 8790; 
+61105 .... Kalwang                                ## M ; 8775; 
+61106 .... Kammern im Liesingtal                  ## M ; 8773; 8772 8792 8793
+61107 .... Kraubath an der Mur                    ## M ; 8714; 
+61108 .... Leoben                                 ## ST; 8700; 8712 8792
+61109 .... Mautern in Steiermark                  ## M ; 8774; 
+61110 .... Niklasdorf                             ## M ; 8712; 
+61111 .... Proleb                                 ##   ; 8712; 
+61112 .... Radmer                                 ##   ; 8795; 8920
+61113 .... Sankt Michael in Obersteiermark        ## M ; 8770; 8713
+61114 .... Sankt Peter-Freienstein                ## M ; 8792; 
+61115 .... Sankt Stefan ob Leoben                 ##   ; 8713; 8714
+61116 .... Traboch                                ##   ; 8772; 8770 8792
+61118 .... Vordernberg                            ## M ; 8794; 
+61119 .... Wald am Schoberpaß                     ##   ; 8781; 
+61120 .... Trofaiach                              ## ST; 8793; 8794
+612   .. Liezen
+61203 .... Aigen im Ennstal                       ##   ; 8943; 
+61204 .... Altaussee                              ##   ; 8992; 
+61205 .... Altenmarkt bei Sankt Gallen            ## M ; 8934; 
+61206 .... Ardning                                ##   ; 8904; 
+61207 .... Bad Aussee                             ## ST; 8990; 
+61213 .... Gröbming                               ## M ; 8962; 
+61215 .... Grundlsee                              ##   ; 8993; 
+61217 .... Haus                                   ## M ; 8967; 8966 8970 8972
+61222 .... Lassing                                ##   ; 8903; 8900 8940
+61236 .... Ramsau am Dachstein                    ##   ; 8972; 
+61243 .... Selzthal                               ##   ; 8900; 8786
+61247 .... Trieben                                ## ST; 8784; 
+61251 .... Wildalpen                              ##   ; 8924; 
+61252 .... Wörschach                              ##   ; 8942; 
+61253 .... Admont                                 ## M ; 8911; 8912 8913
+61254 .... Aich                                   ##   ; 8966; 8965 8967
+61255 .... Bad Mitterndorf                        ## M ; 8983; 8982 8984
+61256 .... Gaishorn am See                        ## M ; 8783; 8781 8782
+61257 .... Irdning-Donnersbachtal                 ## M ; 8952; 8953
+61258 .... Landl                                  ##   ; 8931; 8920 8921 8922 8923
+61259 .... Liezen                                 ## ST; 8940; 8900
+61260 .... Michaelerberg-Pruggern                 ##   ; 8965; 8962
+61261 .... Mitterberg-Sankt Martin                ##   ; 8962; 8952 8954 8960 8961
+61262 .... Öblarn                                 ## M ; 8960; 
+61263 .... Rottenmann                             ## ST; 8786; 8784
+61264 .... Sankt Gallen                           ## M ; 8933; 8911 8932 8934
+61265 .... Schladming                             ## ST; 8970; 8971 8973 8974
+61266 .... Sölk                                   ##   ; 8961; 8962
+61267 .... Stainach-Pürgg                         ## M ; 8950; 8951 8982
+614   .. Murau
+61410 .... Mühlen                                 ## M ; 8822; 8820
+61413 .... Niederwölz                             ##   ; 8831; 8811
+61425 .... St. Peter am Kammersberg               ## M ; 8843; 8832 8842
+61428 .... Schöder                                ##   ; 8844; 
+61437 .... Krakau                                 ##   ; 8854; 
+61438 .... Murau                                  ## ST; 8850; 8813 8842 8852
+61439 .... Neumarkt in der Steiermark             ## M ; 8820; 8812 8822 9323 9360
+61440 .... Oberwölz                               ## ST; 8832; 8831
+61441 .... Ranten                                 ##   ; 8853; 8844
+61442 .... Sankt Georgen am Kreischberg           ##   ; 8861; 8850 8862
+61443 .... Sankt Lambrecht                        ## M ; 8813; 8812
+61444 .... Scheifling                             ## M ; 8811; 8820 8831
+61445 .... Stadl-Predlitz                         ##   ; 8862; 8863 8864
+61446 .... Teufenbach-Katsch                      ##   ; 8833; 8812 8841 8842 8850
+616   .. Voitsberg
+61611 .... Krottendorf-Gaisfeld                   ##   ; 8564; 8152 8563 8570
+61612 .... Ligist                                 ## M ; 8563; 8564
+61615 .... Mooskirchen                            ## M ; 8562; 
+61618 .... Rosental an der Kainach                ##   ; 8582; 8570 8580
+61621 .... Sankt Martin am Wöllmißberg            ##   ; 8580; 8563 8570 8583
+61624 .... Stallhofen                             ## M ; 8152; 8113 8151 8570
+61625 .... Voitsberg                              ## ST; 8570; 8152 8564 8572 8582
+61626 .... Bärnbach                               ## ST; 8572; 8570 8580 8582 8593
+61627 .... Edelschrott                            ## M ; 8583; 8580
+61628 .... Geistthal-Södingberg                   ##   ; 8152; 8113 8153
+61629 .... Hirschegg-Pack                         ##   ; 8584; 8583 9451
+61630 .... Kainach bei Voitsberg                  ##   ; 8573; 8572 8593
+61631 .... Köflach                                ## ST; 8580; 8572 8582 8591 8592 8593
+61632 .... Maria Lankowitz                        ## M ; 8591; 8580 8583 8592 8593 8741
+61633 .... Söding-Sankt Johann                    ##   ; 8561; 8152 8564 8565
+617   .. Weiz
+61701 .... Albersdorf-Prebuch                     ##   ; 8200; 8181 8211
+61708 .... Fischbach                              ##   ; 8654; 8673
+61710 .... Floing                                 ##   ; 8183; 8184 8223
+61711 .... Gasen                                  ##   ; 8616; 
+61716 .... Markt Hartmannsdorf                    ## M ; 8311; 8312
+61719 .... Hofstätten an der Raab                 ##   ; 8200; 8261 8311 8321
+61727 .... Ludersdorf-Wilfersdorf                 ##   ; 8200; 8063
+61728 .... Miesenbach bei Birkfeld                ##   ; 8190; 
+61729 .... Mitterdorf an der Raab                 ##   ; 8181; 8160
+61730 .... Mortantsch                             ##   ; 8160; 
+61731 .... Naas                                   ##   ; 8160; 
+61740 .... Puch bei Weiz                          ##   ; 8182; 8183 8212
+61741 .... Ratten                                 ##   ; 8673; 8672 8674
+61743 .... Rettenegg                              ##   ; 8674; 
+61744 .... St. Kathrein am Hauenstein             ##   ; 8672; 8671 8673
+61745 .... Sankt Kathrein am Offenegg             ##   ; 8171; 8160 8163 8172
+61746 .... St. Margarethen an der Raab            ## M ; 8321; 8311 8322 8323
+61748 .... Sinabelkirchen                         ## M ; 8261; 8200 8211 8262 8311
+61750 .... Strallegg                              ##   ; 8192; 8190 8673
+61751 .... Thannhausen                            ##   ; 8160; 
+61756 .... Anger                                  ## M ; 8184; 8172 8182 8183
+61757 .... Birkfeld                               ## M ; 8190; 8172 8184 8191
+61758 .... Fladnitz an der Teichalm               ##   ; 8163; 8130 8162
+61759 .... Gersdorf an der Feistritz              ##   ; 8212; 8211 8261 8262 8265
+61760 .... Gleisdorf                              ## ST; 8200; 8261 8302 8321
+61761 .... Gutenberg-Stenzengreith                ##   ; 8160; 8061 8162
+61762 .... Ilztal                                 ##   ; 8211; 8181 8200 8261
+61763 .... Passail                                ## M ; 8162; 8102 8160 8172
+61764 .... Pischelsdorf am Kulm                   ## M ; 8212; 8182 8222
+61765 .... Sankt Ruprecht an der Raab             ## M ; 8181; 8160
+61766 .... Weiz                                   ## ST; 8160; 8181
+620   .. Murtal
+62007 .... Fohnsdorf                              ##   ; 8753; 8720
+62008 .... Gaal                                   ##   ; 8731; 
+62010 .... Hohentauern                            ##   ; 8785; 
+62014 .... Kobenz                                 ## M ; 8723; 
+62021 .... Pusterwald                             ##   ; 8764; 8763
+62026 .... Sankt Georgen ob Judenburg             ##   ; 8756; 8800
+62032 .... Sankt Peter ob Judenburg               ##   ; 8755; 
+62034 .... Seckau                                 ## M ; 8732; 8720 8724
+62036 .... Unzmarkt-Frauenburg                    ## M ; 8800; 
+62038 .... Zeltweg                                ## ST; 8740; 
+62039 .... Großlobming                            ##   ; 8734; 8592 8741
+62040 .... Judenburg                              ## ST; 8750; 8742
+62041 .... Knittelfeld                            ## ST; 8720; 8734
+62042 .... Obdach                                 ## M ; 8742; 9463
+62043 .... Pöls-Oberkurzheim                      ## M ; 8761; 8753 8754 8762
+62044 .... Pölstal                                ## M ; 8763; 8762 8765
+62045 .... Sankt Marein-Feistritz                 ##   ; 8733; 8715
+62046 .... Sankt Margarethen bei Knittelfeld      ##   ; 8720; 8714 8715
+62047 .... Spielberg                              ## ST; 8724; 8720 8740
+62048 .... Weißkirchen in Steiermark              ## M ; 8741; 8734 8740 8742 8750
+621   .. Bruck-Mürzzuschlag
+62105 .... Breitenau am Hochlantsch               ## M ; 8614; 
+62115 .... Krieglach                              ## M ; 8670; 8662 8671
+62116 .... Langenwang                             ## M ; 8665; 8670 8680 8682
+62125 .... Pernegg an der Mur                     ##   ; 8132; 8131 8614
+62128 .... Sankt Lorenzen im Mürztal              ## M ; 8642; 8605 8625 8644 8652
+62131 .... Spital am Semmering                    ##   ; 8684; 2680 8680 8685
+62132 .... Stanz im Mürztal                       ##   ; 8653; 
+62135 .... Turnau                                 ## M ; 8625; 8624 8636
+62138 .... Aflenz                                 ## M ; 8623; 8621 8624
+62139 .... Bruck an der Mur                       ## ST; 8600; 
+62140 .... Kapfenberg                             ## ST; 8605; 8600 8641 8642
+62141 .... Kindberg                               ## ST; 8650; 8643 8644 8652 8653
+62142 .... Mariazell                              ## ST; 8630; 3294 8632 8634 8635
+62143 .... Mürzzuschlag                           ## ST; 8680; 8682
+62144 .... Neuberg an der Mürz                    ## M ; 8692; 2651 2654 8691 8693 8694
+62145 .... Sankt Barbara im Mürztal               ## M ; 8662; 8661 8663 8664
+62146 .... Sankt Marein im Mürztal                ## M ; 8641; 8600
+62147 .... Thörl                                  ## M ; 8621; 8622 8623 8624
+62148 .... Tragöß-Sankt Katharein                 ##   ; 8611; 8612
+622   .. Hartberg-Fürstenfeld
+62202 .... Bad Blumau                             ##   ; 8283; 
+62205 .... Buch-St. Magdalena                     ##   ; 8274; 8272 8294
+62206 .... Burgau                                 ## M ; 8291; 
+62209 .... Ebersdorf                              ##   ; 8273; 8272
+62211 .... Friedberg                              ## ST; 8240; 8243
+62214 .... Greinbach                              ##   ; 8230; 8225
+62216 .... Großsteinbach                          ##   ; 8265; 8264
+62219 .... Hartberg                               ## ST; 8230; 
+62220 .... Hartberg Umgebung                      ##   ; 8230; 8225 8274
+62226 .... Lafnitz                                ##   ; 8233; 8230
+62232 .... Ottendorf an der Rittschein            ##   ; 8312; 8262
+62233 .... Pinggau                                ## M ; 8243; 2872 7421 7423
+62235 .... Pöllauberg                             ##   ; 8225; 8250
+62242 .... Sankt Jakob im Walde                   ##   ; 8255; 8673 8674
+62244 .... Sankt Johann in der Haide              ##   ; 8295; 8230 8294
+62245 .... Sankt Lorenzen am Wechsel              ##   ; 8242; 8234 8251
+62247 .... Schäffern                              ##   ; 8244; 2852 2870 2871 7421 8243
+62252 .... Söchau                                 ##   ; 8362; 8280
+62256 .... Stubenberg                             ##   ; 8223; 8222 8224
+62262 .... Wenigzell                              ##   ; 8254; 8253
+62264 .... Bad Waltersdorf                        ## M ; 8271; 8264 8272 8283
+62265 .... Dechantskirchen                        ##   ; 8241; 
+62266 .... Feistritztal                           ##   ; 8221; 8212 8222 8223 8224 8265
+62267 .... Fürstenfeld                            ## ST; 8280; 8282 8362
+62268 .... Grafendorf bei Hartberg                ## M ; 8232; 8225 8230 8233 8234 8250
+62269 .... Großwilfersdorf                        ##   ; 8263; 8262 8264 8362
+62270 .... Hartl                                  ##   ; 8224; 8222 8265 8271 8272 8273
+62271 .... Ilz                                    ## M ; 8262; 8261 8265 8311
+62272 .... Kaindorf                               ## M ; 8224; 8225
+62273 .... Loipersdorf bei Fürstenfeld            ##   ; 8282; 8280
+62274 .... Neudau                                 ## M ; 8292; 
+62275 .... Pöllau                                 ## M ; 8225; 8224 8230
+62276 .... Rohr bei Hartberg                      ##   ; 8294; 8274 8293
+62277 .... Rohrbach an der Lafnitz                ##   ; 8234; 8233 8241 8250
+62278 .... Vorau                                  ## M ; 8250; 8234 8251 8252 8253 8254
+62279 .... Waldbach-Mönichwald                    ##   ; 8252; 8251 8253
+623   .. Südoststeiermark
+62311 .... Edelsbach bei Feldbach                 ##   ; 8332; 8311 8330
+62314 .... Eichkögl                               ##   ; 8322; 8311 8332
+62326 .... Halbenrain                             ## M ; 8492; 8355 8484 8493
+62330 .... Jagerberg                              ## M ; 8091; 8083 8421
+62332 .... Kapfenstein                            ##   ; 8353; 8344 8350
+62335 .... Klöch                                  ## M ; 8493; 8355 8492
+62343 .... Mettersdorf am Saßbach                 ## M ; 8092; 8093 8421
+62347 .... Murfeld                                ##   ; 8473; 8423 8471
+62368 .... Tieschen                               ## M ; 8355; 8493
+62372 .... Unterlamm                              ##   ; 8352; 8350 8361 8362
+62375 .... Bad Gleichenberg                       ##   ; 8344; 8343
+62376 .... Bad Radkersburg                        ## ST; 8490; 8492
+62377 .... Deutsch Goritz                         ##   ; 8483; 8345 8482 8484
+62378 .... Fehring                                ## ST; 8350; 8313 8330 8333 8352 8353 8361 8362
+62379 .... Feldbach                               ## ST; 8330; 8332 8333 8334 8344
+62380 .... Gnas                                   ## M ; 8342; 8083 8091 8330 8341 8343 8345
+62381 .... Kirchbach in der Steiermark            ## M ; 8082; 8081 8083
+62382 .... Kirchberg an der Raab                  ##   ; 8324; 8082 8322 8323 8332 8341 8082
+62383 .... Mureck                                 ## ST; 8480; 8481 8482
+62384 .... Paldau                                 ## M ; 8341; 8324 8342
+62385 .... Pirching am Traubenberg                ##   ; 8081; 
+62386 .... Riegersburg                            ## M ; 8333; 8312 8313 8330 8334 8361
+62387 .... Sankt Anna am Aigen                    ## M ; 8354; 8355
+62388 .... Sankt Peter am Ottersbach              ## M ; 8093; 8342
+62389 .... Sankt Stefan im Rosental               ## M ; 8083; 8082 8091 8324 8341 8421
+62390 .... Straden                                ## M ; 8345; 8342 8343 8355 8483 8484
+7     Tirol
+701   .. Innsbruck-Stadt
+70101 .... Innsbruck                              ## SS; 6020; 6080
+702   .. Imst
+70201 .... Arzl im Pitztal                        ##   ; 6471; 6460
+70202 .... Haiming                                ##   ; 6425; 6430 6433
+70203 .... Imst                                   ## ST; 6460; 
+70204 .... Imsterberg                             ##   ; 6492; 
+70205 .... Jerzens                                ##   ; 6474; 6473
+70206 .... Karres                                 ##   ; 6462; 
+70207 .... Karrösten                              ##   ; 6463; 6460
+70208 .... Längenfeld                             ##   ; 6444; 
+70209 .... Mieming                                ##   ; 6414; 
+70210 .... Mils bei Imst                          ##   ; 6493; 
+70211 .... Mötz                                   ##   ; 6423; 
+70212 .... Nassereith                             ##   ; 6465; 
+70213 .... Obsteig                                ##   ; 6416; 
+70214 .... Oetz                                   ##   ; 6433; 
+70215 .... Rietz                                  ##   ; 6421; 
+70216 .... Roppen                                 ##   ; 6426; 
+70217 .... St. Leonhard im Pitztal                ##   ; 6481; 
+70218 .... Sautens                                ##   ; 6432; 
+70219 .... Silz                                   ##   ; 6424; 6183
+70220 .... Sölden                                 ##   ; 6450; 6456 6458
+70221 .... Stams                                  ##   ; 6422; 6182
+70222 .... Tarrenz                                ##   ; 6464; 
+70223 .... Umhausen                               ##   ; 6441; 
+70224 .... Wenns                                  ##   ; 6473; 
+703   .. Innsbruck-Land
+70301 .... Absam                                  ##   ; 6067; 
+70302 .... Aldrans                                ##   ; 6071; 6073
+70303 .... Ampass                                 ##   ; 6070; 
+70304 .... Axams                                  ##   ; 6094; 
+70305 .... Baumkirchen                            ##   ; 6121; 
+70306 .... Birgitz                                ##   ; 6092; 
+70307 .... Ellbögen                               ##   ; 6083; 
+70308 .... Flaurling                              ##   ; 6403; 
+70309 .... Fritzens                               ##   ; 6122; 
+70310 .... Fulpmes                                ##   ; 6166; 6167
+70311 .... Gnadenwald                             ##   ; 6069; 
+70312 .... Götzens                                ##   ; 6091; 
+70313 .... Gries am Brenner                       ##   ; 6156; 
+70314 .... Gries im Sellrain                      ##   ; 6182; 
+70315 .... Grinzens                               ##   ; 6095; 
+70317 .... Gschnitz                               ##   ; 6150; 
+70318 .... Hatting                                ##   ; 6402; 
+70319 .... Inzing                                 ##   ; 6401; 
+70320 .... Kematen in Tirol                       ##   ; 6175; 6176
+70322 .... Kolsass                                ##   ; 6114; 
+70323 .... Kolsassberg                            ##   ; 6115; 
+70325 .... Lans                                   ##   ; 6072; 
+70326 .... Leutasch                               ##   ; 6105; 6100
+70327 .... Matrei am Brenner                      ## M ; 6143; 
+70328 .... Mieders                                ##   ; 6142; 
+70329 .... Mils                                   ##   ; 6068; 
+70330 .... Mühlbachl                              ##   ; 6143; 6150
+70331 .... Mutters                                ##   ; 6162; 6020
+70332 .... Natters                                ##   ; 6161; 6020 6091
+70333 .... Navis                                  ##   ; 6145; 
+70334 .... Neustift im Stubaital                  ##   ; 6167; 
+70335 .... Oberhofen im Inntal                    ##   ; 6406; 
+70336 .... Obernberg am Brenner                   ##   ; 6157; 
+70337 .... Oberperfuss                            ##   ; 6173; 
+70338 .... Patsch                                 ##   ; 6082; 
+70339 .... Pettnau                                ##   ; 6408; 6170
+70340 .... Pfaffenhofen                           ##   ; 6405; 
+70341 .... Pfons                                  ##   ; 6143; 
+70342 .... Polling in Tirol                       ##   ; 6404; 
+70343 .... Ranggen                                ##   ; 6179; 
+70344 .... Reith bei Seefeld                      ##   ; 6103; 6100
+70345 .... Rinn                                   ##   ; 6074; 
+70346 .... Rum                                    ## M ; 6063; 
+70347 .... St. Sigmund im Sellrain                ##   ; 6184; 
+70348 .... Scharnitz                              ##   ; 6108; 
+70349 .... Schmirn                                ##   ; 6154; 
+70350 .... Schönberg im Stubaital                 ##   ; 6141; 6020
+70351 .... Seefeld in Tirol                       ##   ; 6100; 
+70352 .... Sellrain                               ##   ; 6181; 
+70353 .... Sistrans                               ##   ; 6073; 
+70354 .... Hall in Tirol                          ## ST; 6060; 
+70355 .... Steinach am Brenner                    ## M ; 6150; 
+70356 .... Telfes im Stubai                       ##   ; 6165; 
+70357 .... Telfs                                  ## M ; 6410; 6100 6100
+70358 .... Thaur                                  ##   ; 6065; 6063
+70359 .... Trins                                  ##   ; 6152; 
+70360 .... Tulfes                                 ##   ; 6075; 
+70361 .... Unterperfuss                           ##   ; 6178; 
+70362 .... Vals                                   ##   ; 6154; 
+70364 .... Völs                                   ## M ; 6176; 
+70365 .... Volders                                ##   ; 6111; 
+70366 .... Wattenberg                             ##   ; 6113; 
+70367 .... Wattens                                ## M ; 6112; 
+70368 .... Wildermieming                          ##   ; 6413; 
+70369 .... Zirl                                   ## M ; 6170; 
+704   .. Kitzbühel
+70401 .... Aurach bei Kitzbühel                   ##   ; 6371; 
+70402 .... Brixen im Thale                        ##   ; 6364; 
+70403 .... Fieberbrunn                            ## M ; 6391; 
+70404 .... Going am Wilden Kaiser                 ##   ; 6353; 
+70405 .... Hochfilzen                             ##   ; 6395; 
+70406 .... Hopfgarten im Brixental                ## M ; 6361; 6314
+70407 .... Itter                                  ##   ; 6305; 
+70408 .... Jochberg                               ##   ; 6373; 
+70409 .... Kirchberg in Tirol                     ##   ; 6365; 
+70410 .... Kirchdorf in Tirol                     ##   ; 6382; 6383
+70411 .... Kitzbühel                              ## ST; 6370; 
+70412 .... Kössen                                 ##   ; 6345; 6344
+70413 .... Oberndorf in Tirol                     ##   ; 6372; 
+70414 .... Reith bei Kitzbühel                    ##   ; 6370; 6352 6353 6365
+70415 .... St. Jakob in Haus                      ##   ; 6392; 
+70416 .... St. Johann in Tirol                    ## M ; 6380; 
+70417 .... St. Ulrich am Pillersee                ##   ; 6393; 
+70418 .... Schwendt                               ##   ; 6385; 
+70419 .... Waidring                               ##   ; 6384; 
+70420 .... Westendorf                             ##   ; 6363; 
+705   .. Kufstein
+70501 .... Alpbach                                ##   ; 6236; 
+70502 .... Angath                                 ##   ; 6321; 
+70503 .... Bad Häring                             ##   ; 6323; 
+70504 .... Brandenberg                            ##   ; 6234; 
+70505 .... Breitenbach am Inn                     ##   ; 6252; 
+70506 .... Brixlegg                               ## M ; 6230; 
+70508 .... Ebbs                                   ##   ; 6341; 6330
+70509 .... Ellmau                                 ##   ; 6352; 
+70510 .... Erl                                    ##   ; 6343; 
+70511 .... Kirchbichl                             ##   ; 6322; 
+70512 .... Kramsach                               ##   ; 6233; 
+70513 .... Kufstein                               ## ST; 6330; 
+70514 .... Kundl                                  ## M ; 6250; 
+70515 .... Langkampfen                            ##   ; 6336; 
+70516 .... Mariastein                             ##   ; 6324; 
+70517 .... Münster                                ##   ; 6232; 
+70518 .... Niederndorf                            ##   ; 6342; 
+70519 .... Niederndorferberg                      ##   ; 6346; 
+70520 .... Radfeld                                ##   ; 6241; 
+70521 .... Rattenberg                             ## ST; 6240; 
+70522 .... Reith im Alpbachtal                    ##   ; 6235; 6260
+70523 .... Rettenschöss                           ##   ; 6347; 
+70524 .... Scheffau am Wilden Kaiser              ##   ; 6351; 
+70525 .... Schwoich                               ##   ; 6334; 
+70526 .... Söll                                   ##   ; 6306; 6330 6351
+70527 .... Thiersee                               ##   ; 6335; 
+70528 .... Angerberg                              ##   ; 6320; 
+70529 .... Walchsee                               ##   ; 6344; 
+70530 .... Wildschönau                            ##   ; 6311; 6313 6314
+70531 .... Wörgl                                  ## ST; 6300; 
+706   .. Landeck
+70601 .... Faggen                                 ##   ; 6525; 
+70602 .... Fendels                                ##   ; 6528; 
+70603 .... Fiss                                   ##   ; 6533; 
+70604 .... Fließ                                  ##   ; 6521; 6473 6500
+70605 .... Flirsch                                ##   ; 6572; 
+70606 .... Galtür                                 ##   ; 6563; 
+70607 .... Grins                                  ##   ; 6591; 6500
+70608 .... Ischgl                                 ##   ; 6561; 6562
+70609 .... Kappl                                  ##   ; 6555; 6553
+70610 .... Kaunerberg                             ##   ; 6527; 
+70611 .... Kaunertal                              ##   ; 6524; 
+70612 .... Kauns                                  ##   ; 6522; 
+70613 .... Ladis                                  ##   ; 6532; 
+70614 .... Landeck                                ## ST; 6500; 
+70615 .... Nauders                                ##   ; 6543; 6542
+70616 .... Pettneu am Arlberg                     ##   ; 6574; 
+70617 .... Pfunds                                 ##   ; 6542; 
+70618 .... Pians                                  ##   ; 6551; 6591
+70619 .... Prutz                                  ##   ; 6522; 
+70620 .... Ried im Oberinntal                     ##   ; 6531; 
+70621 .... St. Anton am Arlberg                   ##   ; 6580; 
+70622 .... Schönwies                              ##   ; 6491; 
+70623 .... See                                    ##   ; 6553; 6555
+70624 .... Serfaus                                ##   ; 6534; 6541 6542
+70625 .... Spiss                                  ##   ; 6544; 
+70626 .... Stanz bei Landeck                      ##   ; 6500; 
+70627 .... Strengen                               ##   ; 6571; 
+70628 .... Tobadill                               ##   ; 6552; 6553
+70629 .... Tösens                                 ##   ; 6541; 
+70630 .... Zams                                   ##   ; 6511; 6653
+707   .. Lienz
+70701 .... Abfaltersbach                          ##   ; 9913; 
+70702 .... Ainet                                  ##   ; 9951; 
+70703 .... Amlach                                 ##   ; 9908; 
+70704 .... Anras                                  ##   ; 9912; 
+70705 .... Assling                                ##   ; 9911; 
+70706 .... Außervillgraten                        ##   ; 9931; 
+70707 .... Dölsach                                ##   ; 9991; 9782
+70708 .... Gaimberg                               ##   ; 9905; 
+70709 .... Hopfgarten in Defereggen               ##   ; 9961; 
+70710 .... Innervillgraten                        ##   ; 9932; 
+70711 .... Iselsberg-Stronach                     ##   ; 9992; 
+70712 .... Kals am Großglockner                   ##   ; 9981; 
+70713 .... Kartitsch                              ##   ; 9941; 
+70714 .... Lavant                                 ##   ; 9906; 
+70715 .... Leisach                                ##   ; 9909; 
+70716 .... Lienz                                  ## ST; 9900; 
+70717 .... Matrei in Osttirol                     ## M ; 9971; 
+70718 .... Nikolsdorf                             ##   ; 9782; 
+70719 .... Nußdorf-Debant                         ## M ; 9990; 
+70720 .... Oberlienz                              ##   ; 9903; 
+70721 .... Obertilliach                           ##   ; 9942; 
+70723 .... Prägraten am Großvenediger             ##   ; 9974; 
+70724 .... St. Jakob in Defereggen                ##   ; 9963; 
+70725 .... St. Johann im Walde                    ##   ; 9952; 
+70726 .... St. Veit in Defereggen                 ##   ; 9962; 
+70727 .... Schlaiten                              ##   ; 9954; 
+70728 .... Sillian                                ## M ; 9920; 
+70729 .... Strassen                               ##   ; 9918; 
+70731 .... Thurn                                  ##   ; 9904; 
+70732 .... Tristach                               ##   ; 9907; 
+70733 .... Untertilliach                          ##   ; 9943; 
+70734 .... Virgen                                 ##   ; 9972; 
+70735 .... Heinfels                               ##   ; 9919; 
+708   .. Reutte
+70801 .... Bach                                   ##   ; 6653; 6654
+70802 .... Berwang                                ##   ; 6622; 6621
+70803 .... Biberwier                              ##   ; 6633; 
+70804 .... Bichlbach                              ##   ; 6621; 
+70805 .... Breitenwang                            ##   ; 6600; 
+70806 .... Ehenbichl                              ##   ; 6600; 6671
+70807 .... Ehrwald                                ##   ; 6632; 
+70808 .... Elbigenalp                             ##   ; 6652; 6653
+70809 .... Elmen                                  ##   ; 6644; 
+70810 .... Forchach                               ##   ; 6670; 
+70811 .... Grän                                   ##   ; 6673; 
+70812 .... Gramais                                ##   ; 6650; 
+70813 .... Häselgehr                              ##   ; 6651; 
+70814 .... Heiterwang                             ##   ; 6611; 
+70815 .... Hinterhornbach                         ##   ; 6646; 
+70816 .... Höfen                                  ##   ; 6604; 
+70817 .... Holzgau                                ##   ; 6654; 
+70818 .... Jungholz                               ##   ; 6691; 
+70819 .... Kaisers                                ##   ; 6655; 
+70820 .... Lechaschau                             ##   ; 6600; 
+70821 .... Lermoos                                ##   ; 6631; 
+70822 .... Musau                                  ##   ; 6600; 
+70823 .... Namlos                                 ##   ; 6623; 
+70824 .... Nesselwängle                           ##   ; 6672; 
+70825 .... Pfafflar                               ##   ; 6647; 
+70826 .... Pflach                                 ##   ; 6600; 
+70827 .... Pinswang                               ##   ; 6600; 
+70828 .... Reutte                                 ## M ; 6600; 
+70829 .... Schattwald                             ##   ; 6677; 
+70830 .... Stanzach                               ##   ; 6642; 
+70831 .... Steeg                                  ##   ; 6655; 6767
+70832 .... Tannheim                               ##   ; 6675; 
+70833 .... Vils                                   ## ST; 6682; 
+70834 .... Vorderhornbach                         ##   ; 6645; 
+70835 .... Wängle                                 ##   ; 6610; 
+70836 .... Weißenbach am Lech                     ##   ; 6671; 6672
+70837 .... Zöblen                                 ##   ; 6677; 
+709   .. Schwaz
+70901 .... Achenkirch                             ##   ; 6215; 
+70902 .... Aschau im Zillertal                    ##   ; 6274; 
+70903 .... Brandberg                              ##   ; 6290; 
+70904 .... Bruck am Ziller                        ##   ; 6260; 
+70905 .... Buch in Tirol                          ##   ; 6220; 
+70907 .... Eben am Achensee                       ##   ; 6212; 6213 6215
+70908 .... Finkenberg                             ##   ; 6292; 6295
+70909 .... Fügen                                  ##   ; 6263; 
+70910 .... Fügenberg                              ##   ; 6264; 
+70911 .... Gallzein                               ##   ; 6222; 
+70912 .... Gerlos                                 ##   ; 6281; 
+70913 .... Gerlosberg                             ##   ; 6280; 
+70914 .... Hainzenberg                            ##   ; 6278; 
+70915 .... Hart im Zillertal                      ##   ; 6265; 
+70916 .... Hippach                                ##   ; 6283; 
+70917 .... Jenbach                                ## M ; 6200; 
+70918 .... Kaltenbach                             ##   ; 6272; 
+70920 .... Mayrhofen                              ## M ; 6290; 6295
+70921 .... Pill                                   ##   ; 6136; 
+70922 .... Ramsau im Zillertal                    ##   ; 6284; 
+70923 .... Ried im Zillertal                      ##   ; 6273; 
+70924 .... Rohrberg                               ##   ; 6280; 
+70925 .... Schlitters                             ##   ; 6262; 6261 6263 6264
+70926 .... Schwaz                                 ## ST; 6130; 
+70927 .... Schwendau                              ##   ; 6283; 6290 6292
+70928 .... Stans                                  ##   ; 6135; 6200
+70929 .... Steinberg am Rofan                     ##   ; 6215; 
+70930 .... Strass im Zillertal                    ##   ; 6261; 6200
+70931 .... Stumm                                  ##   ; 6275; 
+70932 .... Stummerberg                            ##   ; 6275; 6276
+70933 .... Terfens                                ##   ; 6123; 
+70934 .... Tux                                    ##   ; 6293; 6294
+70935 .... Uderns                                 ##   ; 6271; 
+70936 .... Vomp                                   ## M ; 6134; 6215
+70937 .... Weer                                   ##   ; 6116; 
+70938 .... Weerberg                               ##   ; 6133; 
+70939 .... Wiesing                                ##   ; 6210; 
+70940 .... Zell am Ziller                         ## M ; 6280; 6283
+70941 .... Zellberg                               ##   ; 6277; 
+8     Vorarlberg
+801   .. Bludenz
+80101 .... Bartholomäberg                         ##   ; 6781; 
+80102 .... Blons                                  ##   ; 6723; 
+80103 .... Bludenz                                ## ST; 6700; 6751
+80104 .... Bludesch                               ##   ; 6719; 
+80105 .... Brand                                  ##   ; 6708; 
+80106 .... Bürs                                   ##   ; 6706; 
+80107 .... Bürserberg                             ##   ; 6707; 
+80108 .... Dalaas                                 ##   ; 6752; 6764
+80109 .... Fontanella                             ##   ; 6733; 6884
+80110 .... Gaschurn                               ##   ; 6793; 6794
+80111 .... Innerbraz                              ##   ; 6751; 
+80112 .... Klösterle                              ##   ; 6754; 6762
+80113 .... Lech                                   ##   ; 6764; 6763
+80114 .... Lorüns                                 ##   ; 6700; 
+80115 .... Ludesch                                ##   ; 6713; 
+80116 .... Nenzing                                ## M ; 6710; 6820
+80117 .... Nüziders                               ##   ; 6714; 
+80118 .... Raggal                                 ##   ; 6741; 
+80119 .... St. Anton im Montafon                  ##   ; 6771; 
+80120 .... St. Gallenkirch                        ##   ; 6791; 6787
+80121 .... St. Gerold                             ##   ; 6722; 
+80122 .... Schruns                                ## M ; 6780; 
+80123 .... Silbertal                              ##   ; 6782; 
+80124 .... Sonntag                                ##   ; 6731; 
+80125 .... Stallehr                               ##   ; 6700; 
+80126 .... Thüringen                              ##   ; 6712; 
+80127 .... Thüringerberg                          ##   ; 6721; 
+80128 .... Tschagguns                             ##   ; 6774; 
+80129 .... Vandans                                ##   ; 6773; 
+802   .. Bregenz
+80201 .... Alberschwende                          ##   ; 6861; 
+80202 .... Andelsbuch                             ##   ; 6866; 
+80203 .... Au                                     ##   ; 6883; 
+80204 .... Bezau                                  ## M ; 6870; 
+80205 .... Bildstein                              ##   ; 6858; 
+80206 .... Bizau                                  ##   ; 6874; 
+80207 .... Bregenz                                ## ST; 6900; 
+80208 .... Buch                                   ##   ; 6960; 
+80209 .... Damüls                                 ##   ; 6884; 
+80210 .... Doren                                  ##   ; 6933; 
+80211 .... Egg                                    ##   ; 6863; 
+80212 .... Eichenberg                             ##   ; 6911; 
+80213 .... Fußach                                 ##   ; 6972; 6890 6971 6973
+80214 .... Gaißau                                 ##   ; 6974; 
+80215 .... Hard                                   ## M ; 6971; 
+80216 .... Hittisau                               ##   ; 6952; 
+80217 .... Höchst                                 ##   ; 6973; 
+80218 .... Hörbranz                               ## M ; 6912; 
+80219 .... Hohenweiler                            ##   ; 6914; 
+80220 .... Kennelbach                             ##   ; 6921; 
+80221 .... Krumbach                               ##   ; 6942; 
+80222 .... Langen bei Bregenz                     ##   ; 6932; 
+80223 .... Langenegg                              ##   ; 6941; 
+80224 .... Lauterach                              ## M ; 6923; 
+80225 .... Lingenau                               ##   ; 6951; 
+80226 .... Lochau                                 ##   ; 6911; 6900
+80227 .... Mellau                                 ##   ; 6881; 
+80228 .... Mittelberg                             ##   ; 6991; 6992 6993
+80229 .... Möggers                                ##   ; 6900; 
+80230 .... Reuthe                                 ##   ; 6870; 
+80231 .... Riefensberg                            ##   ; 6943; 
+80232 .... Schnepfau                              ##   ; 6882; 
+80233 .... Schoppernau                            ##   ; 6886; 
+80234 .... Schröcken                              ##   ; 6888; 
+80235 .... Schwarzach                             ##   ; 6858; 
+80236 .... Schwarzenberg                          ##   ; 6867; 6850
+80237 .... Sibratsgfäll                           ##   ; 6952; 
+80238 .... Sulzberg                               ##   ; 6934; 
+80239 .... Warth                                  ##   ; 6767; 
+80240 .... Wolfurt                                ## M ; 6922; 
+803   .. Dornbirn
+80301 .... Dornbirn                               ## ST; 6850; 
+80302 .... Hohenems                               ## ST; 6845; 
+80303 .... Lustenau                               ## M ; 6890; 
+804   .. Feldkirch
+80401 .... Altach                                 ##   ; 6844; 
+80402 .... Düns                                   ##   ; 6822; 
+80403 .... Dünserberg                             ##   ; 6822; 
+80404 .... Feldkirch                              ## ST; 6800; 
+80405 .... Frastanz                               ## M ; 6820; 
+80406 .... Fraxern                                ##   ; 6833; 
+80407 .... Göfis                                  ##   ; 6811; 
+80408 .... Götzis                                 ## M ; 6840; 
+80409 .... Klaus                                  ##   ; 6833; 
+80410 .... Koblach                                ##   ; 6842; 
+80411 .... Laterns                                ##   ; 6830; 
+80412 .... Mäder                                  ##   ; 6841; 
+80413 .... Meiningen                              ##   ; 6812; 
+80414 .... Rankweil                               ## M ; 6830; 
+80415 .... Röns                                   ##   ; 6822; 6824
+80416 .... Röthis                                 ##   ; 6832; 
+80417 .... Satteins                               ##   ; 6822; 
+80418 .... Schlins                                ##   ; 6824; 
+80419 .... Schnifis                               ##   ; 6822; 
+80420 .... Sulz                                   ##   ; 6832; 
+80421 .... Übersaxen                              ##   ; 6834; 
+80422 .... Viktorsberg                            ##   ; 6836; 
+80423 .... Weiler                                 ##   ; 6833; 
+80424 .... Zwischenwasser                         ##   ; 6835; 6830
+9     Wien
+901   .. Wien  1.,Innere Stadt
+90101 .... Wien                                   ## SS; 1010; 
+902   .. Wien  2.,Leopoldstadt
+90201 .... Wien                                   ## SS; 1020; 
+903   .. Wien  3.,Landstraße
+90301 .... Wien                                   ## SS; 1030; 1020 1110
+904   .. Wien  4.,Wieden
+90401 .... Wien                                   ## SS; 1040; 1010
+905   .. Wien  5.,Margareten
+90501 .... Wien                                   ## SS; 1050; 
+906   .. Wien  6.,Mariahilf
+90601 .... Wien                                   ## SS; 1060; 1040 1070
+907   .. Wien  7.,Neubau
+90701 .... Wien                                   ## SS; 1070; 1010
+908   .. Wien  8.,Josefstadt
+90801 .... Wien                                   ## SS; 1080; 1090
+909   .. Wien  9.,Alsergrund
+90901 .... Wien                                   ## SS; 1090; 1010 1180
+910   .. Wien 10.,Favoriten
+91001 .... Wien                                   ## SS; 1100; 1030 1040 1110
+911   .. Wien 11.,Simmering
+91101 .... Wien                                   ## SS; 1110; 1100
+912   .. Wien 12.,Meidling
+91201 .... Wien                                   ## SS; 1120; 1130
+913   .. Wien 13.,Hietzing
+91301 .... Wien                                   ## SS; 1130; 1120 1140
+914   .. Wien 14.,Penzing
+91401 .... Wien                                   ## SS; 1140; 1130 1160
+915   .. Wien 15.,Rudolfsheim-Fünfhaus
+91501 .... Wien                                   ## SS; 1150; 1140
+916   .. Wien 16.,Ottakring
+91601 .... Wien                                   ## SS; 1160; 
+917   .. Wien 17.,Hernals
+91701 .... Wien                                   ## SS; 1170; 1180 1190
+918   .. Wien 18.,Währing
+91801 .... Wien                                   ## SS; 1180; 1150 1170 1190
+919   .. Wien 19.,Döbling
+91901 .... Wien                                   ## SS; 1190; 1090 1180 1210
+920   .. Wien 20.,Brigittenau
+92001 .... Wien                                   ## SS; 1200; 
+921   .. Wien 21.,Floridsdorf
+92101 .... Wien                                   ## SS; 1210; 1220
+922   .. Wien 22.,Donaustadt
+92201 .... Wien                                   ## SS; 1220; 1210
+923   .. Wien 23.,Liesing
+92301 .... Wien                                   ## SS; 1230; 
