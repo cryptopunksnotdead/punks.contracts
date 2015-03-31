@@ -1,0 +1,125 @@
+## Politische Bezirke, Gebietsstand 2015;;;;
+## Erstellt am:;26.03.2015 14:02:09;;;
+## Bundeslandkennziffer;Bundesland;Kennziffer pol. Bezirk;Politischer Bezirk;Politischer Bez. Code
+
+
+1;Burgenland;101;Eisenstadt(Stadt);101
+1;Burgenland;102;Rust(Stadt);102
+1;Burgenland;103;Eisenstadt-Umgebung;103
+1;Burgenland;104;Güssing;104
+1;Burgenland;105;Jennersdorf;105
+1;Burgenland;106;Mattersburg;106
+1;Burgenland;107;Neusiedl am See;107
+1;Burgenland;108;Oberpullendorf;108
+1;Burgenland;109;Oberwart;109
+2;Kärnten;201;Klagenfurt Stadt;201
+2;Kärnten;202;Villach Stadt;202
+2;Kärnten;203;Hermagor;203
+2;Kärnten;204;Klagenfurt Land;204
+2;Kärnten;205;Sankt Veit an der Glan;205
+2;Kärnten;206;Spittal an der Drau;206
+2;Kärnten;207;Villach Land;207
+2;Kärnten;208;Völkermarkt;208
+2;Kärnten;209;Wolfsberg;209
+2;Kärnten;210;Feldkirchen;210
+3;Niederösterreich;301;Krems an der Donau(Stadt);301
+3;Niederösterreich;302;Sankt Pölten(Stadt);302
+3;Niederösterreich;303;Waidhofen an der Ybbs(Stadt);303
+3;Niederösterreich;304;Wiener Neustadt(Stadt);304
+3;Niederösterreich;305;Amstetten;305
+3;Niederösterreich;306;Baden;306
+3;Niederösterreich;307;Bruck an der Leitha;307
+3;Niederösterreich;308;Gänserndorf;308
+3;Niederösterreich;309;Gmünd;309
+3;Niederösterreich;310;Hollabrunn;310
+3;Niederösterreich;311;Horn;311
+3;Niederösterreich;312;Korneuburg;312
+3;Niederösterreich;313;Krems(Land);313
+3;Niederösterreich;314;Lilienfeld;314
+3;Niederösterreich;315;Melk;315
+3;Niederösterreich;316;Mistelbach;316
+3;Niederösterreich;317;Mödling;317
+3;Niederösterreich;318;Neunkirchen;318
+3;Niederösterreich;319;Sankt Pölten(Land);319
+3;Niederösterreich;320;Scheibbs;320
+3;Niederösterreich;321;Tulln;321
+3;Niederösterreich;322;Waidhofen an der Thaya;322
+3;Niederösterreich;323;Wiener Neustadt(Land);323
+3;Niederösterreich;324;Wien-Umgebung;324
+3;Niederösterreich;325;Zwettl;325
+4;Oberösterreich;401;Linz(Stadt);401
+4;Oberösterreich;402;Steyr(Stadt);402
+4;Oberösterreich;403;Wels(Stadt);403
+4;Oberösterreich;404;Braunau am Inn;404
+4;Oberösterreich;405;Eferding;405
+4;Oberösterreich;406;Freistadt;406
+4;Oberösterreich;407;Gmunden;407
+4;Oberösterreich;408;Grieskirchen;408
+4;Oberösterreich;409;Kirchdorf an der Krems;409
+4;Oberösterreich;410;Linz-Land;410
+4;Oberösterreich;411;Perg;411
+4;Oberösterreich;412;Ried im Innkreis;412
+4;Oberösterreich;413;Rohrbach;413
+4;Oberösterreich;414;Schärding;414
+4;Oberösterreich;415;Steyr-Land;415
+4;Oberösterreich;416;Urfahr-Umgebung;416
+4;Oberösterreich;417;Vöcklabruck;417
+4;Oberösterreich;418;Wels-Land;418
+5;Salzburg;501;Salzburg(Stadt);501
+5;Salzburg;502;Hallein;502
+5;Salzburg;503;Salzburg-Umgebung;503
+5;Salzburg;504;Sankt Johann im Pongau;504
+5;Salzburg;505;Tamsweg;505
+5;Salzburg;506;Zell am See;506
+6;Steiermark;601;Graz(Stadt);601
+6;Steiermark;603;Deutschlandsberg;603
+6;Steiermark;606;Graz-Umgebung;606
+6;Steiermark;610;Leibnitz;610
+6;Steiermark;611;Leoben;611
+6;Steiermark;612;Liezen;612
+6;Steiermark;614;Murau;614
+6;Steiermark;616;Voitsberg;616
+6;Steiermark;617;Weiz;617
+6;Steiermark;620;Murtal;620
+6;Steiermark;621;Bruck-Mürzzuschlag;621
+6;Steiermark;622;Hartberg-Fürstenfeld;622
+6;Steiermark;623;Südoststeiermark;623
+7;Tirol;701;Innsbruck-Stadt;701
+7;Tirol;702;Imst;702
+7;Tirol;703;Innsbruck-Land;703
+7;Tirol;704;Kitzbühel;704
+7;Tirol;705;Kufstein;705
+7;Tirol;706;Landeck;706
+7;Tirol;707;Lienz;707
+7;Tirol;708;Reutte;708
+7;Tirol;709;Schwaz;709
+8;Vorarlberg;801;Bludenz;801
+8;Vorarlberg;802;Bregenz;802
+8;Vorarlberg;803;Dornbirn;803
+8;Vorarlberg;804;Feldkirch;804
+9;Wien;900;Wien(Stadt);900
+9;Wien;900;Wien  1.,Innere Stadt;901
+9;Wien;900;Wien  2.,Leopoldstadt;902
+9;Wien;900;Wien  3.,Landstraße;903
+9;Wien;900;Wien  4.,Wieden;904
+9;Wien;900;Wien  5.,Margareten;905
+9;Wien;900;Wien  6.,Mariahilf;906
+9;Wien;900;Wien  7.,Neubau;907
+9;Wien;900;Wien  8.,Josefstadt;908
+9;Wien;900;Wien  9.,Alsergrund;909
+9;Wien;900;Wien 10.,Favoriten;910
+9;Wien;900;Wien 11.,Simmering;911
+9;Wien;900;Wien 12.,Meidling;912
+9;Wien;900;Wien 13.,Hietzing;913
+9;Wien;900;Wien 14.,Penzing;914
+9;Wien;900;Wien 15.,Rudolfsheim-Fünfhaus;915
+9;Wien;900;Wien 16.,Ottakring;916
+9;Wien;900;Wien 17.,Hernals;917
+9;Wien;900;Wien 18.,Währing;918
+9;Wien;900;Wien 19.,Döbling;919
+9;Wien;900;Wien 20.,Brigittenau;920
+9;Wien;900;Wien 21.,Floridsdorf;921
+9;Wien;900;Wien 22.,Donaustadt;922
+9;Wien;900;Wien 23.,Liesing;923
+
+## Quelle: STATISTIK AUSTRIA. erstellt am 26.03.2015 14:02:09
