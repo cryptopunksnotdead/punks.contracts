@@ -1,4 +1,7 @@
-_Code on the Blockchain - Electronic Contract Scripts_
+_Code on the Blockchain - Electronic Contract Scripts - Crypto Collectibles Series - 
+[Cats](https://github.com/cryptocopycats/contracts) · 
+[Punks](https://github.com/cryptopunksnotdead/contracts)_
+
 
 # CryptoPunks Blockchain Contracts / Services
 
