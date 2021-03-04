@@ -1,4 +1,4 @@
-# austria
+_Code on the Blockchain - Electronic Contract Scripts_
 
-open data and scripts for austria (österreich)
+# CryptoPunks Blockchain Contracts / Services
 
