@@ -1,5 +1,5 @@
-Crypto Collectibles Series - 
-[Cats](https://github.com/cryptocopycats/contracts) · 
+Crypto Collectibles Series -
+[Cats](https://github.com/cryptocopycats/contracts) ·
 [Punks](https://github.com/cryptopunksnotdead/contracts)
 
 
@@ -8,7 +8,9 @@ Crypto Collectibles Series -
 _Code on the Blockchain - Electronic Contract Scripts_
 
 
-## /punks - CryptoPunksMarket
+## Original V2
+
+### /punks - CryptoPunksMarket
 
 Etherscan
 
@@ -18,7 +20,7 @@ Etherscan
 For more see [**Inside the CryptoPunksMarket Blockchain Contract / Service »**](punks)
 
 
-## /wrapped - WrappedPunk (WPUNKS)
+### /wrapped - Wrapped Punks (WPUNKS)
 
 Etherscan
 
@@ -26,3 +28,32 @@ Etherscan
 
 
 For more see [**Inside the Wrapped Punk (WPUNKS) Blockchain Contract / Service »**](wrapped)
+
+
+
+## Classic V1  - "First Deploy"
+
+> When CryptoPunks launched, the contract was exploitable.
+> Sellers didn't get paid. LarvaLabs quickly launched a fixed version
+> of the contract, which everyone uses.
+>
+> But the V1 tokens are still out there.
+
+<!--
+https://twitter.com/seeker_curious/status/1375112685746941955
+https://twitter.com/seeker_curious/status/1374605517444706306
+-->
+
+### /punks-v1 - CryptoPunks
+
+Etherscan
+
+- CryptoPunks, see contract address [`0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D`](https://etherscan.io/address/0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D#code)
+
+
+### /wrapped-v1 - Wrapped Punks V1 (WPUNKS1)
+
+Etherscan
+
+- PunksV1Wrapper (WPUNKS1), see contract address [`0xf4a4644e818c2843ba0aabea93af6c80b5984114`](https://etherscan.io/address/0xf4a4644e818c2843ba0aabea93af6c80b5984114#code)
+
