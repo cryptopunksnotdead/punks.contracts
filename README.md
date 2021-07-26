@@ -57,3 +57,24 @@ Etherscan
 
 - PunksV1Wrapper (WPUNKS1), see contract address [`0xf4a4644e818c2843ba0aabea93af6c80b5984114`](https://etherscan.io/address/0xf4a4644e818c2843ba0aabea93af6c80b5984114#code)
 
+
+
+
+
+## More
+
+### /phunks - CryptoPhunks (PHUNKS)
+
+Etherscan
+
+- CryptoPhunks (PHUNKS), see contract address [`0xf07468ead8cf26c752c676e43c814fee9c8cf402`](https://etherscan.io/address/0xf07468ead8cf26c752c676e43c814fee9c8cf402#code)
+
+
+### /hdpunks - HD Punks (HDPUNKS)
+
+Etherscan
+
+- HDPunks (HDPUNKS), see contract address [`0x3e86e26915403ae0e1cff7e7b23377b3a30104a0`](https://etherscan.io/address/0x3e86e26915403ae0e1cff7e7b23377b3a30104a0#code)
+
+
+
