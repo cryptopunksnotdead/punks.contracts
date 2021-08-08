@@ -80,3 +80,38 @@ Etherscan
 - HDPunks (HDPUNKS), see contract address [`0x3e86e26915403ae0e1cff7e7b23377b3a30104a0`](https://etherscan.io/address/0x3e86e26915403ae0e1cff7e7b23377b3a30104a0#code), June 29, 2021 09:52:03 PM (Block #12731429)
 
 
+
+### /zunks -  Zunks (ZUNK)
+
+>  How does on-chain generation for Zunks work? How do we keep Zunks unique from existing Punks?
+>
+> 1) CryptoZunks is the first on-chain Punks derivative project where the smart contract generates all the attributes randomly on-chain when the user mints. How does this work?
+>
+> 2) After determining what attributes the Zunk has, we create a string representation of the Zunk which can be decoded into the various attributes (gender, hat, beard, etc.).
+>
+> 3) This string representation of the Zunk is then saved on the blockchain. On subsequent Zunk mints, the contract validates that it hasn't generated a same Zunk that already exists. If it has, the contract will re-generate random attributes until it has created a unique Zunk.
+>
+> 4) There are optimizations built into the contract to re-generate a Zunk as few times as possible. It's important that users aren't stuck endlessly generating invalid Zunks and to keep gas usage low.
+>
+> 5) We've run thousands of simulations and have validated that we can reliably generate 10k unique Zunks Partying face
+>
+> 6) We also wanted to guarantee that the generated Zunk doesn't match an existing Punk. We took all 10k Punks, converted them into our string representation, and seeded the contract with these Punks so that the contract may validate against them.
+>
+> 7) Now when the contract generates a Zunk or a user rerolls an attribute, the contract will validate that it does not match any existing Zunks or Punks. After the Zunk is confirmed to be unique and minted, the contract emits an event of the string representation of the Zunk.
+>
+> 8) Our goal is to innovate and to bring a unique and fun minting experience that gives some power to the user, while still upholding the ethos of decentralization. Every Zunk is randomly generated on chain, your Zunk's destiny is in your hands!
+>
+> -- [Amanda](https://twitter.com/0xMandy/status/1423678586494410754)
+>
+>
+> Commentary:
+> The devs are paying themselves at least 1.35 million dollars
+> just to do the initial mint and will of course profit a
+> substantial amount of all future sales.
+
+
+Etherscan
+
+- CryptoZunks (ZUNK), see contract address [`0x031920cc2d9f5c10b444fd44009cd64f829e7be2`](https://etherscan.io/address/0x031920cc2d9f5c10b444fd44009cd64f829e7be2#code), August 7, 2021 04:01:17 AM (Block #12975638)
+
+
