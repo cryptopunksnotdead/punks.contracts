@@ -40,26 +40,8 @@ contract CryptoZunks is
   string NO_OPTIONS = "no options";
   uint256 NO_REROLL_OPTIONS = 99999;
 
-  uint256[8] femaleSlotProbabilities = [
-    2608,
-    0,
-    3959,
-    8614,
-    10000,
-    6625,
-    1950,
-    2080
-  ];
-  uint256[8] maleSlotProbabilities = [
-    2608,
-    7187,
-    3959,
-    6923,
-    10000,
-    2437,
-    1825,
-    3225
-  ];
+  uint256[8] femaleSlotProbabilities = [2608, 0, 3959, 8614, 10000, 6625, 1950, 2080];
+  uint256[8] maleSlotProbabilities = [2608, 7187, 3959, 6923, 10000, 2437, 1825, 3225];
   uint256[] genderProbabilities = [5000, 5000];
   uint256[] skinProbabilities = [14, 36, 2454, 2454, 2454, 2456, 132];
 
@@ -92,90 +74,13 @@ contract CryptoZunks is
 
   constructor() ERC721("CryptoZunks", "ZUNK") {
     femaleProbabilities[uint256(Slot.accessories)] = [1913, 5812, 1155, 1119];
-    femaleProbabilities[uint256(Slot.beard)] = [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ];
+    femaleProbabilities[uint256(Slot.beard)] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
     femaleProbabilities[uint256(Slot.ear)] = [10000];
-    femaleProbabilities[uint256(Slot.eyes)] = [
-      402,
-      752,
-      974,
-      706,
-      540,
-      537,
-      412,
-      648,
-      496,
-      752,
-      804,
-      959,
-      741,
-      496,
-      467,
-      315
-    ];
-    femaleProbabilities[uint256(Slot.hat)] = [
-      237,
-      0,
-      378,
-      332,
-      347,
-      0,
-      146,
-      237,
-      409,
-      404,
-      0,
-      227,
-      436,
-      378,
-      0,
-      0,
-      414,
-      227,
-      434,
-      424,
-      434,
-      175,
-      0,
-      242,
-      139,
-      244,
-      229,
-      0,
-      378,
-      0,
-      388,
-      370,
-      381,
-      228,
-      229,
-      141,
-      228,
-      0,
-      370,
-      441,
-      350
-    ];
-    femaleProbabilities[uint256(Slot.lips)] = [
-      1567,
-      1768,
-      1664,
-      1768,
-      1664,
-      1567
-    ];
+    femaleProbabilities[uint256(Slot.eyes)] = [402, 752, 974, 706, 540, 537, 412, 648, 496, 752, 804, 959, 741, 496, 467, 315];
+    femaleProbabilities[uint256(Slot.hat)] = [237, 0, 378, 332, 347, 0, 146, 237, 409, 404, 0, 227, 436, 378, 0, 0, 414, 227,
+                                              434, 424, 434, 175, 0, 242, 139, 244, 229, 0, 378, 0, 388, 370, 381, 228, 229, 141, 228,
+                                              0, 370, 441, 350];
+    femaleProbabilities[uint256(Slot.lips)] = [1567, 1768, 1664, 1768, 1664, 1567];
     femaleProbabilities[uint256(Slot.neck)] = [2778, 3756, 3467];
     femaleProbabilities[uint256(Slot.smoke)] = [5571, 1014, 1838, 1577];
 
