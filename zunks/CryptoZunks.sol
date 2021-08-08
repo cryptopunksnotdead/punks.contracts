@@ -85,44 +85,10 @@ contract CryptoZunks is
     femaleProbabilities[uint256(Slot.smoke)] = [5571, 1014, 1838, 1577];
 
     maleProbabilities[uint256(Slot.accessories)] = [1913, 5812, 1155, 1119];
-    maleProbabilities[uint256(Slot.beard)] = [
-      417,
-      805,
-      779,
-      742,
-      842,
-      751,
-      816,
-      822,
-      864,
-      834,
-      825,
-      1502
-    ];
+    maleProbabilities[uint256(Slot.beard)] = [417, 805, 779, 742, 842, 751, 816, 822, 864, 834, 825, 1502];
     maleProbabilities[uint256(Slot.ear)] = [10000];
-    maleProbabilities[uint256(Slot.eyes)] = [
-      527,
-      987,
-      566,
-      926,
-      708,
-      704,
-      540,
-      850,
-      0,
-      987,
-      527,
-      0,
-      972,
-      566,
-      612,
-      527
-    ];
-    maleProbabilities[uint256(Slot.hat)] = [
-      505,
-      75,
-      0,
-      0,
+    maleProbabilities[uint256(Slot.eyes)] = [527, 987, 566, 926, 708, 704, 540, 850, 0, 987, 527, 0, 972, 566, 612, 527];
+    maleProbabilities[uint256(Slot.hat)] = [505, 75, 0, 0,
       369,
       433,
       155,
@@ -198,45 +164,16 @@ contract CryptoZunks is
     _mintNoCostChecks(1);
   }
 
-  function mintOne() public payable nonReentrant {
-    _mint(1);
-  }
-
-  function mintTwo() public payable nonReentrant {
-    _mint(2);
-  }
-
-  function mintThree() public payable nonReentrant {
-    _mint(3);
-  }
-
-  function mintFour() public payable nonReentrant {
-    _mint(4);
-  }
-
-  function mintFive() public payable nonReentrant {
-    _mint(5);
-  }
-
-  function mintSix() public payable nonReentrant {
-    _mint(6);
-  }
-
-  function mintSeven() public payable nonReentrant {
-    _mint(7);
-  }
-
-  function mintEight() public payable nonReentrant {
-    _mint(8);
-  }
-
-  function mintNine() public payable nonReentrant {
-    _mint(9);
-  }
-
-  function mintTen() public payable nonReentrant {
-    _mint(10);
-  }
+  function mintOne() public payable nonReentrant { _mint(1); }
+  function mintTwo() public payable nonReentrant { _mint(2); }
+  function mintThree() public payable nonReentrant { _mint(3); }
+  function mintFour() public payable nonReentrant { _mint(4); }
+  function mintFive() public payable nonReentrant { _mint(5); }
+  function mintSix() public payable nonReentrant { _mint(6); }
+  function mintSeven() public payable nonReentrant { _mint(7); }
+  function mintEight() public payable nonReentrant { _mint(8); }
+  function mintNine() public payable nonReentrant { _mint(9); }
+  function mintTen() public payable nonReentrant { _mint(10); }
 
   // internal minting function
   function _mint(uint256 _numToMint) internal {
