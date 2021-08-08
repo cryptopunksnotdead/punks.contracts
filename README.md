@@ -81,8 +81,19 @@ Etherscan
 
 
 
+
+
 ### /zunks -  Zunks (ZUNK)
 
+web: [cryptozunks.com](https://www.cryptozunks.com)
+
+> CryptoPunks were the first 10,000. CryptoZunks are the last 10,000.
+>
+> Numbered 10,000 - 19,999, Zunks are the first Punks to be
+> generated on-chain with randomized attributes.
+> Spin to mint your base model Zunk and re-roll any attributes.
+>
+>
 >  How does on-chain generation for Zunks work? How do we keep Zunks unique from existing Punks?
 >
 > 1) CryptoZunks is the first on-chain Punks derivative project where the smart contract generates all the attributes randomly on-chain when the user mints. How does this work?
@@ -104,9 +115,16 @@ Etherscan
 > -- [Amanda](https://twitter.com/0xMandy/status/1423678586494410754)
 >
 >
+> All 10,000 Zunks have been minted!
+> A lot of dizziness from all of the spins today.
+>
+> -- [CryptoZunks](https://twitter.com/CryptoZunks/status/1424165997733289992), Aug 8, 2021
+>
+>
 > Commentary:
-> The devs are paying themselves at least 1.35 million dollars
-> just to do the initial mint and will of course profit a
+> The devs are raking in at least $1.35 million dollars
+> with the mint of 10,000 Zunks
+> and will of course profit a
 > substantial amount of all future sales.
 
 
