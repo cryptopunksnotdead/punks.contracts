@@ -76,56 +76,27 @@ contract CryptoZunks is
     femaleProbabilities[uint256(Slot.accessories)] = [1913, 5812, 1155, 1119];
     femaleProbabilities[uint256(Slot.beard)] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
     femaleProbabilities[uint256(Slot.ear)] = [10000];
-    femaleProbabilities[uint256(Slot.eyes)] = [402, 752, 974, 706, 540, 537, 412, 648, 496, 752, 804, 959, 741, 496, 467, 315];
-    femaleProbabilities[uint256(Slot.hat)] = [237, 0, 378, 332, 347, 0, 146, 237, 409, 404, 0, 227, 436, 378, 0, 0, 414, 227,
-                                              434, 424, 434, 175, 0, 242, 139, 244, 229, 0, 378, 0, 388, 370, 381, 228, 229, 141, 228,
-                                              0, 370, 441, 350];
+    femaleProbabilities[uint256(Slot.eyes)] = [
+      402, 752, 974, 706, 540, 537, 412, 648, 496, 752, 804, 959, 741, 496, 467, 315];
+    femaleProbabilities[uint256(Slot.hat)] = [
+       237, 0, 378, 332, 347, 0, 146, 237, 409, 404, 0, 227, 436, 378, 0, 0, 414, 227,
+    434, 424, 434, 175, 0, 242, 139, 244, 229, 0, 378, 0, 388, 370, 381, 228, 229, 141, 228,
+      0, 370, 441, 350];
     femaleProbabilities[uint256(Slot.lips)] = [1567, 1768, 1664, 1768, 1664, 1567];
     femaleProbabilities[uint256(Slot.neck)] = [2778, 3756, 3467];
     femaleProbabilities[uint256(Slot.smoke)] = [5571, 1014, 1838, 1577];
 
     maleProbabilities[uint256(Slot.accessories)] = [1913, 5812, 1155, 1119];
-    maleProbabilities[uint256(Slot.beard)] = [417, 805, 779, 742, 842, 751, 816, 822, 864, 834, 825, 1502];
+    maleProbabilities[uint256(Slot.beard)] = [
+       417, 805, 779, 742, 842, 751, 816, 822, 864, 834, 825, 1502];
     maleProbabilities[uint256(Slot.ear)] = [10000];
-    maleProbabilities[uint256(Slot.eyes)] = [527, 987, 566, 926, 708, 704, 540, 850, 0, 987, 527, 0, 972, 566, 612, 527];
-    maleProbabilities[uint256(Slot.hat)] = [505, 75, 0, 0,
-      369,
-      433,
-      155,
-      242,
-      434,
-      0,
-      512,
-      317,
-      463,
-      0,
-      692,
-      442,
-      440,
-      483,
-      463,
-      451,
-      231,
-      0,
-      517,
-      0,
-      0,
-      0,
-      346,
-      281,
-      231,
-      512,
-      0,
-      0,
-      0,
-      486,
-      0,
-      0,
-      196,
-      251,
-      0,
-      470,
-      0
+    maleProbabilities[uint256(Slot.eyes)] = [
+        527, 987, 566, 926, 708, 704, 540, 850, 0, 987, 527, 0, 972, 566, 612, 527];
+    maleProbabilities[uint256(Slot.hat)] = [
+       505, 75, 0, 0, 369, 433, 155, 242, 434, 0,
+      512, 317, 463, 0, 692, 442, 440, 483, 463, 451, 231,
+      0, 517, 0, 0, 0, 346, 281, 231, 512,
+      0, 0, 0, 486, 0, 0, 196, 251, 0, 470, 0
     ];
     maleProbabilities[uint256(Slot.lips)] = [0, 1351, 2261, 2261, 0, 4125];
     maleProbabilities[uint256(Slot.neck)] = [2600, 2600, 4800];
