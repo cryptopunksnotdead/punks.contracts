@@ -133,3 +133,35 @@ Etherscan
 - CryptoZunks (ZUNK), see contract address [`0x031920cc2d9f5c10b444fd44009cd64f829e7be2`](https://etherscan.io/address/0x031920cc2d9f5c10b444fd44009cd64f829e7be2#code), August 7, 2021 04:01:17 AM (Block #12975638)
 
 
+
+### /punksdata  - Official (On-Chain) CryptoPunksData Update / Add-On / Service
+
+> On-chain Cryptopunk images and attributes, by Larva Labs.
+>
+> This contract holds the image and attribute data for the Cryptopunks
+>  on-chain.
+> The Cryptopunk images are available as raw RGBA pixels,
+> or in SVG format.
+> The punk attributes are available as a comma-separated list.
+> Included in the attribute list is the head type
+> (various color male and female heads,
+> plus the rare zombie, ape, and alien types).
+
+Etherscan
+
+- CryptoPunksData, see contract address [`0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2`](https://etherscan.io/address/0x16f5a35647d6f03d5d3da7b35409d65ba03af3b2#code),
+August 18, 2021 12:10:24 AM (Block #13045935)
+
+
+Note:  If you are looking for the on-chain data (attributes or the pixel matrix / bitmap and so on) - the data is NOT in the contract source
+but in the 266 transaction (txn) inputs.   See [punksdata/transactions.txt](punksdata/transactions.txt).
+
+
+
+
+
+
+
+## Questions? Comments?
+
+Post them on the [CryptoPunksDev reddit](https://old.reddit.com/r/CryptoPunksDev). Thanks.
