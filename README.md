@@ -47,6 +47,7 @@ August 27, 2021 (Block #13107807) - **/international** - InternationalPunks (INT
 
 September 1, 2021 (Block #13138993) - **/ape** - ApePunks (APEK)
 
+September 13, 2021 (Block #13214597) - **/other** - OtherPunks (OPUNKS)
 
 September 21, 2021 (Block #13268745) - **/currency** - CurrencyPunks (CUPU)
 
@@ -242,12 +243,22 @@ Etherscan
 September 1, 2021 09:34:09 AM (Block #13138993)
 
 
+### /other - OtherPunks (OPUNKS)
+
+Etherscan
+
+- OtherPunks (OPUNKS), see contract address [`0x1a9b1bb73ed02db2dc3cd0d25adb42ad4d06389f`](https://etherscan.io/address/0x1a9b1bb73ed02db2dc3cd0d25adb42ad4d06389f#code),
+September 13, 2021 01:58:38 AM (Block #13214597)
+
+
+
 ### /currency - CurrencyPunks (CUPU)
 
 Etherscan
 
 - CurrencyPunks (CUPU), see contract address [`0xe433e90c5b898819544346e73a501d9e8013dbd8`](https://etherscan.io/address/0xe433e90c5b898819544346e73a501d9e8013dbd8#code),
 September 21, 2021 11:04:00 AM (Block #13268745)
+
 
 
 ### /mineable - MineablePunks (MPUNKS)
