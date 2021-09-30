@@ -252,6 +252,12 @@ September 21, 2021 11:04:00 AM (Block #13268745)
 
 ### /mineable - MineablePunks (MPUNKS)
 
+> Mineable punks are generated using cryptopunk assets, all on-chain. 
+> Mineable punks cannot be claimed; they must be mined. A valid 256-bit hash can be fed through 
+> an on-chain minting function that uses the probability distribution and assets of the original 10,000 cryptopunks 
+> to generate an mineable punk.
+
+
 Etherscan
 
 - MineablePunks (MPUNKS), see contract address [`0x595a8974c1473717c4b5d456350cd594d9bda687`](https://etherscan.io/address/0x595a8974c1473717c4b5d456350cd594d9bda687#code),
