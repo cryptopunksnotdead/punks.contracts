@@ -50,6 +50,9 @@ September 1, 2021 (Block #13138993) - **/ape** - ApePunks (APEK)
 
 September 21, 2021 (Block #13268745) - **/currency** - CurrencyPunks (CUPU)
 
+September 23, 2021 (Block #13283328) - **/mineable** - MineablePunks (MPUNKS)
+
+
 
 
 ## Original V2
@@ -246,6 +249,13 @@ Etherscan
 - CurrencyPunks (CUPU), see contract address [`0xe433e90c5b898819544346e73a501d9e8013dbd8`](https://etherscan.io/address/0xe433e90c5b898819544346e73a501d9e8013dbd8#code),
 September 21, 2021 11:04:00 AM (Block #13268745)
 
+
+### /mineable - MineablePunks (MPUNKS)
+
+Etherscan
+
+- MineablePunks (MPUNKS), see contract address [`0x595a8974c1473717c4b5d456350cd594d9bda687`](https://etherscan.io/address/0x595a8974c1473717c4b5d456350cd594d9bda687#code),
+September 23, 2021 05:31:33 PM (Block #13283328)
 
 
 
