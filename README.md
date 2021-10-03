@@ -53,6 +53,8 @@ September 21, 2021 (Block #13268745) - **/currency** - CurrencyPunks (CUPU)
 
 September 23, 2021 (Block #13283328) - **/mineable** - MineablePunks (MPUNKS)
 
+October 2, 2021 (Block #13339194) - **/society** - LostPunkSociety (LPS)
+
 
 
 
@@ -263,9 +265,9 @@ September 21, 2021 11:04:00 AM (Block #13268745)
 
 ### /mineable - MineablePunks (MPUNKS)
 
-> Mineable punks are generated using cryptopunk assets, all on-chain. 
-> Mineable punks cannot be claimed; they must be mined. A valid 256-bit hash can be fed through 
-> an on-chain minting function that uses the probability distribution and assets of the original 10,000 cryptopunks 
+> Mineable punks are generated using cryptopunk assets, all on-chain.
+> Mineable punks cannot be claimed; they must be mined. A valid 256-bit hash can be fed through
+> an on-chain minting function that uses the probability distribution and assets of the original 10,000 cryptopunks
 > to generate an mineable punk.
 
 
@@ -273,6 +275,43 @@ Etherscan
 
 - MineablePunks (MPUNKS), see contract address [`0x595a8974c1473717c4b5d456350cd594d9bda687`](https://etherscan.io/address/0x595a8974c1473717c4b5d456350cd594d9bda687#code),
 September 23, 2021 05:31:33 PM (Block #13283328)
+
+
+
+### /society - LostPunkSociety (LPS)
+
+> It's a boy! Lost Punk #10012 was minted as the child of crypto punk #1340
+> and lost punk #10005.
+>
+> It's a girl! Lost Punk #10011 was minted by as the child of
+> cypto punks #7822 and #9271.
+>
+>  o o o
+>
+> If you own both a male and a female crypto punk,
+> you can mint two children for free,
+> and it's all happening 100% on-chain.
+>
+> Note: You only need real crypto punks to mint the first generation.
+> The next generation punks could become a cheaper entry point
+> when supply gets large enough.
+>
+> Every time a lost punk child is minted, it can be used to mint more children.
+> Parents can be two crypto punks, two lost punks, or a mix of both,
+> and you can use parents from different generations to mint.
+>
+> The cost of minting does increase linearly by 0.05 ETH
+> per generation to avoid flooding supply
+> and every parent can have max two children
+> and you cannot mint from parents that are closely related,
+> so we are unlikely to see thousands of lost punks soon...
+
+
+
+Etherscan
+
+- LostPunkSociety (LPS), see contract address [`0xa583beacdf3ed3808402f8db4f6628a7e1c6cec6`](https://etherscan.io/address/0xa583beacdf3ed3808402f8db4f6628a7e1c6cec6#code),
+October 2, 2021 09:57:19 AM (Block #13339194)
 
 
 
