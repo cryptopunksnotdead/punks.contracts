@@ -284,7 +284,7 @@ September 23, 2021 05:31:33 PM (Block #13283328)
 > and lost punk #10005.
 >
 > It's a girl! Lost Punk #10011 was minted by as the child of
-> cypto punks #7822 and #9271.
+> crypto punks #7822 and #9271.
 >
 >  o o o
 >
