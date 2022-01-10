@@ -21,4 +21,9 @@ ExpansionPhunks -
 <https://etherscan.io/address/0x71eb5c179ceb640160853144cbb8df5bd24ab5cc>
 
 
+MeltedPunks (MP) -
+<https://etherscan.io/address/0x1808cb10ad0dc7bb891efbad883da63ebf0e110c#code>
+
+Wunks V2 -
+<https://etherscan.io/address/0x301144b43d8dcba1b3e9f70ed7338d0751d700a3#code>
 
