@@ -58,6 +58,14 @@ October 2, 2021 (Block #13339194) - **/society** - LostPunkSociety (LPS)
 
 
 
+**2022**
+
+February 5, 2022 (Block #14142987)  - **/phunks-v1-wrapped** - Wrapped Cryptophunks V1 (WPHV1)
+
+
+
+
+
 
 ## Original V2
 
@@ -149,6 +157,27 @@ Etherscan
 - CryptoPhunks (PHUNKS), see contract address [`0xa82f3a61f002f83eba7d184c50bb2a8b359ca1ce`](https://etherscan.io/address/0xa82f3a61f002f83eba7d184c50bb2a8b359ca1ce#code), June 14, 2021 04:18:53 AM (Block #12630376)
 
 - CryptoPhunksV2 (PHUNKS), see contract address [`0xf07468ead8cf26c752c676e43c814fee9c8cf402`](https://etherscan.io/address/0xf07468ead8cf26c752c676e43c814fee9c8cf402#code), June 21, 2021 12:07:08 AM (Block #12674389)
+
+
+### /phunks-v1-wrapped - Wrapped Cryptophunks V1 (WPHV1)
+
+
+> Q: Why wrapped?
+>
+> A: Cryptophunks V1 are buggy. Philip (the intern) is every image.
+>
+> Q: How do you wrap a Phunk V1?
+>
+> A: You send your Phunk V1 to
+>  `0x235d49774139c218034c0571ba8f717773edd923` with `safeTransferFrom()`
+>  and the wrapping occurs in the `onERC721Received()` callback!
+
+Etherscan
+
+- Wrapped Cryptophunks V1 (WPHV1), see contract address
+[`0x235d49774139c218034c0571ba8f717773edd923`](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code), February 5, 2022 01:04:58 AM (Block #14142987)
+
+
 
 
 
