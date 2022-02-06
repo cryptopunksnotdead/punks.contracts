@@ -56,6 +56,8 @@ September 23, 2021 (Block #13283328) - **/mineable** - MineablePunks (MPUNKS)
 
 October 2, 2021 (Block #13339194) - **/society** - LostPunkSociety (LPS)
 
+December 16, 2021 (Block #13817852) - **/phunks-v2-market** -  CryptoPhunksMarket
+
 
 
 **2022**
@@ -176,6 +178,14 @@ Etherscan
 
 - Wrapped Cryptophunks V1 (WPHV1), see contract address
 [`0x235d49774139c218034c0571ba8f717773edd923`](https://etherscan.io/address/0x235d49774139c218034c0571ba8f717773edd923#code), February 5, 2022 01:04:58 AM (Block #14142987)
+
+
+
+### /phunks-v2-market - CryptoPhunksMarket
+
+Etherscan
+
+- CryptoPhunksMarket, see contract address [`0xd6c037bE7FA60587e174db7A6710f7635d2971e7`](https://etherscan.io/address/0xd6c037bE7FA60587e174db7A6710f7635d2971e7#code), December 16, 2021 06:40:01 PP (Block #13817852)
 
 
 
