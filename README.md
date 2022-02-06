@@ -40,7 +40,7 @@ August 7, 2021 (Block #12975638) - **/zunks** - Zunks (ZUNK)
 
 August 7, 2021 (Block #12979903)  - **/bored** - BoredPunkYachtClub (BPYC)
 
-August 15, 2021  (Block #13026517) - **/expansion** - ExpansionPunks (XPUNKS)
+August 15, 2021  (Block #13026517) - **/expansion-i** - ExpansionPunks (XPUNKS)
 
 August 18, 2021 (Block #13045935) - **/punksdata** - CryptoPunksData Update / Add-On / Service
 
@@ -57,6 +57,8 @@ September 23, 2021 (Block #13283328) - **/mineable** - MineablePunks (MPUNKS)
 October 2, 2021 (Block #13339194) - **/society** - LostPunkSociety (LPS)
 
 December 16, 2021 (Block #13817852) - **/phunks-v2-market** -  CryptoPhunksMarket
+
+December 30, 2021 (Block #13906069) - **/expansion-ii** - ExpansionPhunks (PHUNX)
 
 
 
@@ -260,12 +262,21 @@ August 7, 2021 07:38:45 PM (Block #12979903)
 
 
 
-### /expansion  -  ExpansionPunks (XPUNKS)
+### /expansion-i  -  ExpansionPunks (XPUNKS)
 
 Etherscan
 
 - ExpansionPunks (XPUNKS), see contract address [`0x0d0167a823c6619d430b1a96ad85b888bcf97c37`](https://etherscan.io/address/0x0d0167a823c6619d430b1a96ad85b888bcf97c37#code),
 August 15, 2021 12:13:20 AM  (Block #13026517)
+
+
+
+### /expansion-ii  -  ExpansionPhunks (PHUNX)
+
+Etherscan
+
+- ExpansionPhunks (PHUNX), see contract address [`0x71eb5c179ceb640160853144cbb8df5bd24ab5cc`](https://etherscan.io/address/0x71eb5c179ceb640160853144cbb8df5bd24ab5cc#code), December 30, 2021 10:14:39 AM  (Block #13906069)
+
 
 
 ### /international - InternationalPunks (INTPUNKS)
