@@ -64,6 +64,7 @@ December 30, 2021 (Block #13906069) - **/expansion-ii** - ExpansionPhunks (PHUNX
 
 **2022**
 
+February 2, 2022 (Block #14127834) - **/punks-v3** -  Cryptopunks V3 (V3PUNK)
 
 February 4, 2022 (Block #14138557) - **/punks-v4** - Cryptopunks V4 (V4PUNK)
 
@@ -72,9 +73,35 @@ February 5, 2022 (Block #14142987)  - **/phunks-v1-wrapped** - Wrapped Cryptophu
 
 
 
+## Historic V1  - "First Deploy"
+
+> When CryptoPunks launched, the contract was exploitable.
+> Sellers didn't get paid. LarvaLabs quickly launched a fixed version
+> of the contract, which everyone uses.
+>
+> But the V1 tokens are still out there.
+
+<!--
+https://twitter.com/seeker_curious/status/1375112685746941955
+https://twitter.com/seeker_curious/status/1374605517444706306
+-->
+
+### /punks-v1 - CryptoPunks
+
+Etherscan
+
+- CryptoPunks, see contract address [`0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D`](https://etherscan.io/address/0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D#code), June 9, 2017 12:22:50 AM (Block #3842489)
 
 
-## Original V2
+### /punks-v1-wrapped-i - Wrapped Punks V1 (WPUNKS1)
+
+Etherscan
+
+- PunksV1Wrapper (WPUNKS1), see contract address [`0xf4a4644e818c2843ba0aabea93af6c80b5984114`](https://etherscan.io/address/0xf4a4644e818c2843ba0aabea93af6c80b5984114#code), March 25, 2021 04:26:43 AM (Block #12105923)
+
+
+
+## Classic V2
 
 ### /punks-v2 - CryptoPunksMarket
 
@@ -125,35 +152,17 @@ For more see [**Inside the Wrapped Punk (WPUNKS) Blockchain Contract / Service Â
 
 
 
-## Classic V1  - "First Deploy"
-
-> When CryptoPunks launched, the contract was exploitable.
-> Sellers didn't get paid. LarvaLabs quickly launched a fixed version
-> of the contract, which everyone uses.
->
-> But the V1 tokens are still out there.
-
-<!--
-https://twitter.com/seeker_curious/status/1375112685746941955
-https://twitter.com/seeker_curious/status/1374605517444706306
--->
-
-### /punks-v1 - CryptoPunks
-
-Etherscan
-
-- CryptoPunks, see contract address [`0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D`](https://etherscan.io/address/0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D#code), June 9, 2017 12:22:50 AM (Block #3842489)
-
-
-### /punks-v1-wrapped-i - Wrapped Punks V1 (WPUNKS1)
-
-Etherscan
-
-- PunksV1Wrapper (WPUNKS1), see contract address [`0xf4a4644e818c2843ba0aabea93af6c80b5984114`](https://etherscan.io/address/0xf4a4644e818c2843ba0aabea93af6c80b5984114#code), March 25, 2021 04:26:43 AM (Block #12105923)
-
 
 
 ## V3, V4, V5, V6, ...
+
+### /punks-v3 - Cryptopunks V3 (V3PUNK)
+
+Etherscan
+
+- Cryptopunks V3 (V3PUNK), see contract address [`0xD33c078C2486B7Be0F7B4DDa9B14F35163B949e0`](https://etherscan.io/address/0xD33c078C2486B7Be0F7B4DDa9B14F35163B949e0#code), February 2, 2022 04:57:59 PM (Block #14127834)
+
+
 
 ### /punks-v4 - Cryptopunks V4 (V4PUNK)
 
