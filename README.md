@@ -17,16 +17,17 @@ _Punk Contracts by Creation Date_
 
 June 9, 2017 (Block #3842489) - **/punks-v1** - CryptoPunks Classic V1 - "First Deploy"
 
-June 22, 2017 (Block #3914495) - **/punks** - CryptoPunksMarket
+June 22, 2017 (Block #3914495) - **/punks-v2** - CryptoPunksMarket
+
 
 **2020**
 
-September 8, 2020 (Block #10821737) - **/wrapped** - Wrapped Punks (WPUNKS)
+September 8, 2020 (Block #10821737) - **/punks-v2-wrapped** - Wrapped Punks (WPUNKS)
 
 
 **2021**
 
-March 25, 2021 (Block #12105923) - **/wrapped-v1** - Wrapped Punks V1 (WPUNKS1)
+March 25, 2021 (Block #12105923) - **/punks-v1-wrapped-i** - Wrapped Punks V1 (WPUNKS1), "Classic Edition"
 
 
 June 14, 2021 (Block #12630376) - **/phunks** - CryptoPhunks (PHUNKS)
@@ -60,14 +61,14 @@ October 2, 2021 (Block #13339194) - **/society** - LostPunkSociety (LPS)
 
 ## Original V2
 
-### /punks - CryptoPunksMarket
+### /punks-v2 - CryptoPunksMarket
 
 Etherscan
 
 - CryptoPunkMarket, see contract address [`0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb`](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code), June 22, 2017 07:40:00 PM (Block #3914495)
 
 
-For more see [**Inside the CryptoPunksMarket Blockchain Contract / Service »**](punks)
+For more see [**Inside the CryptoPunksMarket Blockchain Contract / Service »**](punks-v2)
 
 
 ### /punksdata  - CryptoPunksData Update / Add-On / Service
@@ -98,14 +99,14 @@ but in the 266 transaction (txn) inputs.   See [punksdata/transactions.txt](punk
 
 
 
-### /wrapped - Wrapped Punks (WPUNKS)
+### /punks-v2-wrapped - Wrapped Punks (WPUNKS)
 
 Etherscan
 
 - WrappedPunk (WPUNKS), see contract address [`0xb7f7f6c52f2e2fdb1963eab30438024864c313f6`](https://etherscan.io/address/0xb7f7f6c52f2e2fdb1963eab30438024864c313f6#code), September 8, 2020 03:11:25 PM (Block #10821737)
 
 
-For more see [**Inside the Wrapped Punk (WPUNKS) Blockchain Contract / Service »**](wrapped)
+For more see [**Inside the Wrapped Punk (WPUNKS) Blockchain Contract / Service »**](punks-v2-wrapped)
 
 
 
@@ -129,7 +130,7 @@ Etherscan
 - CryptoPunks, see contract address [`0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D`](https://etherscan.io/address/0x6Ba6f2207e343923BA692e5Cae646Fb0F566DB8D#code), June 9, 2017 12:22:50 AM (Block #3842489)
 
 
-### /wrapped-v1 - Wrapped Punks V1 (WPUNKS1)
+### /punks-v1-wrapped-i - Wrapped Punks V1 (WPUNKS1)
 
 Etherscan
 
@@ -141,7 +142,7 @@ Etherscan
 
 ## More
 
-### /phunks - CryptoPhunks (PHUNKS)
+### /phunks (v1 & v2) - CryptoPhunks (PHUNKS)
 
 Etherscan
 
